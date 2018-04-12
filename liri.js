@@ -33,7 +33,7 @@ function usage() {
     
     console.log('Usage: node liri.js <cmd> <arg>')
     console.log(' where cmd is one of:')
-    console.log('   spotify-this        : Look up a song (<args>) on spotify and display info about it')
+    console.log('   spotify-this-song   : Look up a song (<args>) on spotify and display info about it')
     console.log('   movie-this          : Look up a movie (<args>) on omdb and display info about it')
     console.log('   my-tweets           : Look up your last 20 tweets on Twitter and display them')
     console.log('   do-what-it-says     : Randomly execute one of the commands with some arbitrary argument')
