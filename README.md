@@ -2,13 +2,13 @@
  LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface. LIRI is a command line node app that takes in parameters and gives you back data.
 
 
-#Prerequisites
-* Node JS
-* node-spotify-api NPM module
-* twitter NPM Module
+# Prerequisites
+*  Node JS
+*  node-spotify-api NPM module
+*  twitter NPM Module
 
-#How To Run LIRI
-* Navigate to the folder where liri.js lives
+# How To Run LIRI
+*  Navigate to the folder where liri.js lives
 
 Usage: node liri.js <cmd> <arg>
  where cmd is one of:
@@ -19,7 +19,7 @@ Usage: node liri.js <cmd> <arg>
 
  args is everything following <cmd> and need not be quoted
 
- #Examples
+ # Examples
       $ node liri.js movie-this the shining
       Title of the movie:                     The Shining
       Year the movie came out:                1980
@@ -58,5 +58,5 @@ Usage: node liri.js <cmd> <arg>
       RT @devcentral: Helpful #CodeShare from @WorldTechIT SA Mark Wall:  This simple @ansible playbook will allow you to automate the entire F5…
       RT @devcentral: Another great #CodeShare from F5er John Huttley showing how to do 'APM session caching for Web API's'  This is a Session ca…5er John Huttley showing how to do 'APM session caching for Web 
 
-#Logging
+# Logging
   A record of **_all_** commands and output is kept in log.txt in the same directory as liri.js.
