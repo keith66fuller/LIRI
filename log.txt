@@ -1,0 +1,18 @@
+
+LIRI executed command do-what-it-says with args ><
+LIRI executed command spotify-this-song with args >"I Want it That Way"<
+Artist(s): Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=bb5314b285d44faca4e99f1707410b0c
+Album: The Hits--Chapter One
+LIRI executeUserCmd called with command do-what-it-says with args ><
+LIRI executeUserCmd called with command spotify-this-song with args >"Comfort Eagle"<
+Artist(s): Cake
+Song Name: Short Skirt / Long Jacket
+Preview Link: https://p.scdn.co/mp3-preview/7420f9c65687e0b99707bfdaef11e17a02badf9e?cid=bb5314b285d44faca4e99f1707410b0c
+Album: Comfort Eagle
+LIRI called with no arguments whatsoever.
+LIRI executeUserCmd called with command give-me-money with args ><
+LIRI called with bogus command give-me-money
+LIRI executeUserCmd called with command make-pigs-fly-now with args ><
+LIRI called with bogus command make-pigs-fly-now
