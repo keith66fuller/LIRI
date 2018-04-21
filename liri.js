@@ -108,9 +108,9 @@ function executeUserCmd(cmd,args) {
                 }, function(err, data) {
                     if (err) { return twinLog('Error occurred: ' + err) };
                     [
-                        ['Song Name',   data.tracks.items[0].name],
-                        ['Preview Link',data.tracks.items[0].preview_url],
-                        ['Album',       data.tracks.items[0].album.name]
+                        ['Song Name     ', data.tracks.items[0].name],
+                        ['Preview Link  ', data.tracks.items[0].preview_url],
+                        ['Album         ', data.tracks.items[0].album.name]
                     ].forEach(element => {
                         twinLog(`${element[0]}: ${element[1]}`);
                     });
@@ -152,17 +152,20 @@ function executeUserCmd(cmd,args) {
                   resp.on('end', () => {
                     data=JSON.parse(data);
                     [
-                        ['Title of the movie',                     data.Title],
-                        ['Year the movie came out',                data.Year],    
-                        ['IMDB Rating of the movie',               data.imdbRating],     
-                        ['Rotten Tomatoes Rating of the movie',    data.Title],                
-                        ['Country where the movie was produced',   data.Country],                 
-                        ['Language of the movie',                  data.Language],  
-                        ['Plot of the movie',                      data.Plot],                
-                        ['Actors in the movie',                    data.Actors]
+                        ['Title of the movie                    ',  data.Title],
+                        ['Year the movie came out               ',  data.Year],    
+                        ['IMDB Rating of the movie              ',  data.imdbRating],     
+                        ['Rotten Tomatoes Rating of the movie   ',  data.Title],                
+                        ['Country where the movie was produced  ',  data.Country],                 
+                        ['Language of the movie                 ',  data.Language],  
+                        ['Plot of the movie                     ',  data.Plot],                
+                        ['Actors in the movie                   ',  data.Actors]
+                    ].forEach(element => {
+                        twinLog(chalk.black(chalk.bgWhite(element[0]+':'))+'                    '+chalk.bold(element[1]));    
+                    });
 
 
-                    twinLog(`Actors in the movie:                    ${data.Actors}`);
+                    
                     getInput();
                   });
                 }).on("error", (err) => {
