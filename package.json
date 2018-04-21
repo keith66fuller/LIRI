@@ -1,5 +1,5 @@
 {
-  "name": "LIRI",
+  "name": "liri_kf",
   "version": "1.0.0",
   "description": "LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface. LIRI is a command line node app that takes in parameters and gives you back data.",
   "main": "keys.js",
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/keith66fuller/LIRI.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Keith Fuller",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/keith66fuller/LIRI/issues"
@@ -19,8 +19,12 @@
   "homepage": "https://github.com/keith66fuller/LIRI#readme",
   "dependencies": {
     "dotenv": "^5.0.1",
+    "inquirer": "^5.2.0",
     "node-spotify-api": "^1.0.7",
     "request": "^2.85.0",
     "twitter": "^1.7.1"
+  },
+  "directories": {
+    "doc": "docs"
   }
 }

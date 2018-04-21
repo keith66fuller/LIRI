@@ -1,4 +1,5 @@
 require("dotenv").config();
+var inquirer      = require('inquirer');
 const http        = require('http');
 const fs          = require('fs');
 const querystring = require('querystring');
@@ -9,13 +10,46 @@ var spotify       = new Spotify(keys.spotify);
 var client        = new Twitter(keys.twitter);
 var omdbApiKey    = keys.omdbApiKey;
 var randomTxt     = [];
+var cmd;
+var args;
+const validCommands = [
+    'my-tweets',
+    'spotify-this-song',
+    'movie-this',
+    'do-what-it-says'
+]
+
+getInput();
 
 
-if (process.argv.length>2) {
-    executeUserCmd(process.argv[2],process.argv.slice(3,process.argv.length).join(' '));
-} else {
-    fileLog('LIRI called with no arguments whatsoever.');
-    usage();
+function getInput() {
+    inquirer.prompt([
+        {
+        type: 'message',
+        name: 'initMsg',
+        message: 'Hi, I am LIRI.  Give me a command',
+        validate: function(text) {
+            console.log('\n')
+            if (validCommands.indexOf(text.split(" ")[0]) >= 0) {
+                cmd=text.split(" ")[0];
+                args=text.split(" ").slice(1);
+                return true;
+            } else {
+                fileLog(`LIRI called with bogus command ${text}`);
+                usage();
+                return false;
+            }
+        }
+        }
+    ])
+    .then(function(inquirerResponse) {
+        
+        // If the inquirerResponse confirms, we displays the inquirerResponse's username and pokemon from the answers.
+        if (inquirerResponse.initMsg) {
+            executeUserCmd(cmd,args);
+            getInput();
+        }
+    });
 }
 
 // For the bonus
@@ -31,8 +65,8 @@ function fileLog(msg){
 
 function usage() {
     
-    console.log('Usage: node liri.js <cmd> <arg>')
-    console.log(' where cmd is one of:')
+    console.log('Usage: <cmd> <arg>')
+    console.log(' where cmd should be one of:')
     console.log('   spotify-this-song   : Look up a song (<args>) on spotify and display info about it')
     console.log('   movie-this          : Look up a movie (<args>) on omdb and display info about it')
     console.log('   my-tweets           : Look up your last 20 tweets on Twitter and display them')
@@ -126,5 +160,7 @@ function executeUserCmd(cmd,args) {
             break;
     }
 }
+
+
 
 
