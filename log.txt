@@ -128,3 +128,117 @@ LIRI called with bogus command foobar
 LIRI called with bogus command foobar
 LIRI called with bogus command foobar
 LIRI called with bogus command foobar
+LIRI executeUserCmd called with command do-what-it-says with args ><
+LIRI executeUserCmd called with command spotify-this-song with args >"Brick House"<
+Song Name: Brick House
+Preview Link: null
+Artist(s): Commodores
+Album: Commodores
+LIRI executeUserCmd called with command do-what-it-says with args ><
+LIRI executeUserCmd called with command spotify-this-song with args >"I Want it That Way"<
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=bb5314b285d44faca4e99f1707410b0c
+Album: The Hits--Chapter One
+Artist(s): Backstreet Boys
+LIRI executeUserCmd called with command do-what-it-says with args ><
+LIRI executeUserCmd called with command movie-this with args >"Citizen Kane"<
+Title of the movie:                     Citizen Kane
+Year the movie came out:                1941
+Rotten Tomatoes Rating of the movie:    Citizen Kane
+Plot of the movie:                      Following the death of a publishing tycoon, news reporters scramble to discover the meaning of his final utterance.
+Actors in the movie:                    Joseph Cotten, Dorothy Comingore, Agnes Moorehead, Ruth Warrick
+Country where the movie was produced:   USA
+Language of the movie:                  English
+IMDB Rating of the movie:               8.4
+LIRI called with bogus command 
+LIRI executeUserCmd called with command do-what-it-says with args ><
+LIRI executeUserCmd called with command movie-this with args >"Citizen Kane"<
+Title of the movie:                     Citizen Kane
+Year the movie came out:                1941
+Rotten Tomatoes Rating of the movie:    Citizen Kane
+Plot of the movie:                      Following the death of a publishing tycoon, news reporters scramble to discover the meaning of his final utterance.
+IMDB Rating of the movie:               8.4
+Actors in the movie:                    Joseph Cotten, Dorothy Comingore, Agnes Moorehead, Ruth Warrick
+Language of the movie:                  English
+Country where the movie was produced:   USA
+LIRI executeUserCmd called with command my-tweets with args ><
+DuckDuckGo is my search engine of choice. #ComeToTheDuckSide - we have privacy. https://t.co/hXWSmjdaIM
+@Starbucks I am pretty sure this is a shakedown for $ staged by the two men &amp;  lawyer. slight possibility the employee is in on it too.
+RT @F5Security: "Combating seven common threat techniques in 2018" by @F5NetworksEMEA's @Keiron_Shep: https://t.co/H7kEb9IIKL via @IT_SecGu…
+RT @F5Security: “5 myths of API security”: https://t.co/US3lnfD27l via @CSOonline #cybersecurity
+RT @F5Security: "There is no such thing as a non-critical app when it comes to #security" by @lmacvittie: https://t.co/YyRScEPqER #cloud #W…
+RT @F5Security: Calling #RSAC attendees: Don’t miss the presentation from F5’s @dholmesf5 on “Secrets of the Encrypted Internet—Worldwide C…
+RT @F5Security: [Blog] @F5Networks' SVP &amp; GM of Security, Ram Krishnan, discusses the details surrounding the launch of F5 Advanced #WAF, "…
+RT @NakedWinesCOM: The way 99% of people choose their wine is hilarious  https://t.co/Hcvgz3WaCB
+RT @F5Security: "What makes a #WAF advanced?" by @F5Networks' @bamchenry: https://t.co/DYvIClyELz #AppSec https://t.co/S86EYImTQ3
+RT @RimoteSaS: #IT #Security issues with #OpenSSL, a Secure Sockets Layer toolkit https://t.co/ffDEYalFrR https://t.co/tjnqFGLNSq Please up…
+RT @F5Security: Uncover #IoT security trends in the @F5Labs Threat Analysis Report, “The Hunt for IoT: The Growth and Evolution of Thingbot…
+RT @abacohosting: Our SSL or Secure Sockets Layer certificates will protect confidential data on your website including passwords, payment…
+RT @betterwebservic: SSL (Secure Sockets Layer) https://t.co/r345C2qemB
+RT @ubuntu: With only two weeks to go until Ubuntu 18.04, here are the latest updates from the server team! https://t.co/Ye0NaBch6Y https:/…
+RT @ExtraHop: Next week we’re heading to San Francisco for #RSAC. Drop by South Expo Booth 2307 to say hello! https://t.co/q8NeDwiN78 https…
+RT @Azure: This week’s #AzureTrivia question is here. So, GAME ON. Answer for your chance to win cool prizes! https://t.co/WLBogBiDF0
+RT @whitehatsec: The combination of #microservices and #APIs is the fabric of #applications. WhiteHat CEO @CraigHinkley looks at how WhiteH…
+RT @megazone: I'm not sure if it is good or bad that I got this immediately.  And laughed. https://t.co/YUXoRH2lEA
+RT @iamdevloper: when you're reminded you wrote the world's biggest social network in PHP https://t.co/bnXqNeDjiC
+RT @WalkMeInc: Eliminate User Confusion with Customized On-Screen Guidance. https://t.co/1DyoLCoWdh
+LIRI executeUserCmd called with command my-tweets with args ><
+DuckDuckGo is my search engine of choice. #ComeToTheDuckSide - we have privacy. https://t.co/hXWSmjdaIM
+RT @F5Security: “5 myths of API security”: https://t.co/US3lnfD27l via @CSOonline #cybersecurity
+RT @F5Security: "Combating seven common threat techniques in 2018" by @F5NetworksEMEA's @Keiron_Shep: https://t.co/H7kEb9IIKL via @IT_SecGu…
+RT @F5Security: "There is no such thing as a non-critical app when it comes to #security" by @lmacvittie: https://t.co/YyRScEPqER #cloud #W…
+RT @NakedWinesCOM: The way 99% of people choose their wine is hilarious  https://t.co/Hcvgz3WaCB
+RT @F5Security: Calling #RSAC attendees: Don’t miss the presentation from F5’s @dholmesf5 on “Secrets of the Encrypted Internet—Worldwide C…
+RT @F5Security: [Blog] @F5Networks' SVP &amp; GM of Security, Ram Krishnan, discusses the details surrounding the launch of F5 Advanced #WAF, "…
+RT @F5Security: "What makes a #WAF advanced?" by @F5Networks' @bamchenry: https://t.co/DYvIClyELz #AppSec https://t.co/S86EYImTQ3
+RT @F5Security: Uncover #IoT security trends in the @F5Labs Threat Analysis Report, “The Hunt for IoT: The Growth and Evolution of Thingbot…
+RT @RimoteSaS: #IT #Security issues with #OpenSSL, a Secure Sockets Layer toolkit https://t.co/ffDEYalFrR https://t.co/tjnqFGLNSq Please up…
+RT @abacohosting: Our SSL or Secure Sockets Layer certificates will protect confidential data on your website including passwords, payment…
+RT @betterwebservic: SSL (Secure Sockets Layer) https://t.co/r345C2qemB
+RT @ubuntu: With only two weeks to go until Ubuntu 18.04, here are the latest updates from the server team! https://t.co/Ye0NaBch6Y https:/…
+RT @ExtraHop: Next week we’re heading to San Francisco for #RSAC. Drop by South Expo Booth 2307 to say hello! https://t.co/q8NeDwiN78 https…
+RT @Azure: This week’s #AzureTrivia question is here. So, GAME ON. Answer for your chance to win cool prizes! https://t.co/WLBogBiDF0
+RT @whitehatsec: The combination of #microservices and #APIs is the fabric of #applications. WhiteHat CEO @CraigHinkley looks at how WhiteH…
+RT @megazone: I'm not sure if it is good or bad that I got this immediately.  And laughed. https://t.co/YUXoRH2lEA
+@Starbucks I am pretty sure this is a shakedown for $ staged by the two men &amp;  lawyer. slight possibility the employee is in on it too.
+RT @iamdevloper: when you're reminded you wrote the world's biggest social network in PHP https://t.co/bnXqNeDjiC
+RT @WalkMeInc: Eliminate User Confusion with Customized On-Screen Guidance. https://t.co/1DyoLCoWdh
+LIRI called with bogus command 
+LIRI called with bogus command 
+LIRI called with bogus command 
+LIRI called with bogus command 
+LIRI called with bogus command 
+LIRI called with bogus command 
+LIRI called with bogus command 
+LIRI called with bogus command 
+LIRI called with bogus command 
+LIRI executeUserCmd called with command movie-this with args >empire,strikes<
+Year the movie came out:                1980
+IMDB Rating of the movie:               8.8
+Rotten Tomatoes Rating of the movie:    Star Wars: Episode V - The Empire Strikes Back
+Country where the movie was produced:   USA
+Language of the movie:                  English
+Plot of the movie:                      After the rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda, while his friends are pursued by Darth Vader.
+Actors in the movie:                    Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams
+Title of the movie:                     Star Wars: Episode V - The Empire Strikes Back
+LIRI executeUserCmd called with command my-tweets with args ><
+DuckDuckGo is my search engine of choice. #ComeToTheDuckSide - we have privacy. https://t.co/hXWSmjdaIM
+@Starbucks I am pretty sure this is a shakedown for $ staged by the two men &amp;  lawyer. slight possibility the employee is in on it too.
+RT @F5Security: "Combating seven common threat techniques in 2018" by @F5NetworksEMEA's @Keiron_Shep: https://t.co/H7kEb9IIKL via @IT_SecGu…
+RT @NakedWinesCOM: The way 99% of people choose their wine is hilarious  https://t.co/Hcvgz3WaCB
+RT @F5Security: "There is no such thing as a non-critical app when it comes to #security" by @lmacvittie: https://t.co/YyRScEPqER #cloud #W…
+RT @F5Security: Calling #RSAC attendees: Don’t miss the presentation from F5’s @dholmesf5 on “Secrets of the Encrypted Internet—Worldwide C…
+RT @F5Security: "What makes a #WAF advanced?" by @F5Networks' @bamchenry: https://t.co/DYvIClyELz #AppSec https://t.co/S86EYImTQ3
+RT @F5Security: [Blog] @F5Networks' SVP &amp; GM of Security, Ram Krishnan, discusses the details surrounding the launch of F5 Advanced #WAF, "…
+RT @RimoteSaS: #IT #Security issues with #OpenSSL, a Secure Sockets Layer toolkit https://t.co/ffDEYalFrR https://t.co/tjnqFGLNSq Please up…
+RT @F5Security: Uncover #IoT security trends in the @F5Labs Threat Analysis Report, “The Hunt for IoT: The Growth and Evolution of Thingbot…
+RT @betterwebservic: SSL (Secure Sockets Layer) https://t.co/r345C2qemB
+RT @abacohosting: Our SSL or Secure Sockets Layer certificates will protect confidential data on your website including passwords, payment…
+RT @ubuntu: With only two weeks to go until Ubuntu 18.04, here are the latest updates from the server team! https://t.co/Ye0NaBch6Y https:/…
+RT @ExtraHop: Next week we’re heading to San Francisco for #RSAC. Drop by South Expo Booth 2307 to say hello! https://t.co/q8NeDwiN78 https…
+RT @Azure: This week’s #AzureTrivia question is here. So, GAME ON. Answer for your chance to win cool prizes! https://t.co/WLBogBiDF0
+RT @F5Security: “5 myths of API security”: https://t.co/US3lnfD27l via @CSOonline #cybersecurity
+RT @whitehatsec: The combination of #microservices and #APIs is the fabric of #applications. WhiteHat CEO @CraigHinkley looks at how WhiteH…
+RT @megazone: I'm not sure if it is good or bad that I got this immediately.  And laughed. https://t.co/YUXoRH2lEA
+RT @iamdevloper: when you're reminded you wrote the world's biggest social network in PHP https://t.co/bnXqNeDjiC
+RT @WalkMeInc: Eliminate User Confusion with Customized On-Screen Guidance. https://t.co/1DyoLCoWdh

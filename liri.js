@@ -46,10 +46,12 @@ function getInput() {
         
         // If the inquirerResponse confirms, we displays the inquirerResponse's username and pokemon from the answers.
         if (inquirerResponse.initMsg) {
-            executeUserCmd(cmd,args);
-            getInput();
+            if (! executeUserCmd(cmd,args)) {
+                getInput();
+            }
         }
-    });
+    })
+    
 }
 
 // For the bonus
@@ -64,7 +66,6 @@ function fileLog(msg){
 }
 
 function usage() {
-    
     console.log('Usage: <cmd> <arg>')
     console.log(' where cmd should be one of:')
     console.log('   spotify-this-song   : Look up a song (<args>) on spotify and display info about it')
@@ -75,6 +76,7 @@ function usage() {
     console.log(' args is everything following <cmd> and need not be quoted')
 }
 function executeUserCmd(cmd,args) {
+    console.log('\n');
     fileLog(`LIRI executeUserCmd called with command ${cmd} with args >${args}<`)
     switch (cmd) {
         case 'my-tweets':
@@ -150,6 +152,7 @@ function executeUserCmd(cmd,args) {
                     const j = Math.floor(Math.random() * (i + 1));
                     [randomTxt[i],randomTxt[j]] = [randomTxt[j],randomTxt[i]];
                 }
+                console.log(`Random Command --> ${cmd} ${args}`)
                 executeUserCmd(randomTxt[0].cmd,randomTxt[0].args);
             })
             break;
