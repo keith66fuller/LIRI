@@ -1,5 +1,6 @@
 require("dotenv").config();
 var inquirer      = require('inquirer');
+const chalk       = require('chalk');
 const http        = require('http');
 const fs          = require('fs');
 const querystring = require('querystring');
@@ -10,8 +11,6 @@ var spotify       = new Spotify(keys.spotify);
 var client        = new Twitter(keys.twitter);
 var omdbApiKey    = keys.omdbApiKey;
 var randomTxt     = [];
-var cmd;
-var args;
 const validCommands = [
     'my-tweets',
     'spotify-this-song',
@@ -23,33 +22,23 @@ getInput();
 
 
 function getInput() {
+    console.log('\n');
     inquirer.prompt([
         {
-        type: 'message',
-        name: 'initMsg',
-        message: 'Hi, I am LIRI.  Give me a command',
-        validate: function(text) {
-            console.log('\n')
-            if (validCommands.indexOf(text.split(" ")[0]) >= 0) {
-                cmd=text.split(" ")[0];
-                args=text.split(" ").slice(1);
-                return true;
-            } else {
-                fileLog(`LIRI called with bogus command ${text}`);
-                usage();
-                return false;
-            }
-        }
+            type: 'list',
+            name: 'initMsg',
+            message: 'Hi, I am LIRI.  Choose one of the commands below.',
+            choices: [
+                'my-tweets',
+                'spotify-this-song',
+                'movie-this',
+                'do-what-it-says',
+                'exit'
+            ]
         }
     ])
     .then(function(inquirerResponse) {
-        
-        // If the inquirerResponse confirms, we displays the inquirerResponse's username and pokemon from the answers.
-        if (inquirerResponse.initMsg) {
-            if (! executeUserCmd(cmd,args)) {
-                getInput();
-            }
-        }
+        executeUserCmd(inquirerResponse.initMsg)
     })
     
 }
@@ -77,65 +66,110 @@ function usage() {
 }
 function executeUserCmd(cmd,args) {
     console.log('\n');
-    fileLog(`LIRI executeUserCmd called with command ${cmd} with args >${args}<`)
     switch (cmd) {
         case 'my-tweets':
-            client.get('statuses/user_timeline', { screen_name: 'keith66fuller', count: 20 }, function(error, tweets, response) {
-                if (!error) {
-                    // twinLog(tweets);
-                    tweets.forEach(element => {
-                        twinLog(element.text);
-                    });
+            client.get(
+                'statuses/user_timeline',
+                { screen_name: 'keith66fuller', count: 20 },
+                function(error, tweets, response) {
+                    if (!error) {
+                        tweets.forEach(element => { twinLog(element.text) });
+                    } else {
+                        res.status(500).json({ error: error });
+                    }
+                    getInput();
                 }
-                else {
-                res.status(500).json({ error: error });
-                }
-            });
+            );
             break;
         case 'spotify-this-song':
-            var songQuery = 'Ace of Base';
-            if (args != "") { songQuery = args }
-            spotify.search({
-                type: 'track',
-                query: songQuery,
-                limit: 1
-            }, function(err, data) {
-                if (err) {
-                    return twinLog('Error occurred: ' + err);
+            var p1 = new Promise( (resolve,reject) => {
+                if (! args) {
+                    inquirer.prompt([
+                        {
+                            type: 'input',
+                            name: 'song',
+                            message: 'Type the name of the song to Spotify. ',
+                            validate: function (input) { return (input != "") },
+                            default: 'Ace of Base'
+                        }
+                    ]).then(function(inquirerResponse) {
+                        resolve(inquirerResponse.song);
+                    })
+                } else {
+                    resolve(args);
                 }
-                twinLog(`Artist(s): ${data.tracks.items[0].artists[0].name}`);
-                twinLog(`Song Name: ${data.tracks.items[0].name}`);
-                twinLog(`Preview Link: ${data.tracks.items[0].preview_url}`);
-                twinLog(`Album: ${data.tracks.items[0].album.name}`);
+            })
+
+            p1.then((song) => {
+                spotify.search({
+                    type: 'track',
+                    query: song,
+                    limit: 1
+                }, function(err, data) {
+                    if (err) { return twinLog('Error occurred: ' + err) };
+                    [
+                        ['Song Name',   data.tracks.items[0].name],
+                        ['Preview Link',data.tracks.items[0].preview_url],
+                        ['Album',       data.tracks.items[0].album.name]
+                    ].forEach(element => {
+                        twinLog(`${element[0]}: ${element[1]}`);
+                    });
+                    getInput();
+                });
             });
             break;
+
         case 'movie-this':
-            var movieQuery = 'Mr. Nobody';
-            if (args != "") { movieQuery = args }
-            var reqParams = querystring.stringify({ t: movieQuery });
-            http.get(`http://www.omdbapi.com/?apikey=${omdbApiKey}&${reqParams}`, (resp) => {
-              let data = '';
+            var p1 = new Promise( (resolve,reject) => {
+                if (! args) {
+                    inquirer.prompt([
+                        {
+                            type: 'input',
+                            name: 'movie',
+                            message: 'Type the name of the movie. ',
+                            validate: function (input) { return (input != "") },
+                            default: 'Mr. Nobody'
+                        }
+                    ]).then(function(inquirerResponse) {
+                        resolve(inquirerResponse.movie);
+                    })
+                } else {
+                    resolve(args);
+                }
+            })
 
-              // A chunk of data has been recieved.
-              resp.on('data', (chunk) => {
-                data += chunk;
-              });
+            p1.then((movie) => {
+                var reqParams = querystring.stringify({ t: movie });
+                http.get(`http://www.omdbapi.com/?apikey=${omdbApiKey}&${reqParams}`, (resp) => {
+                  let data = '';
 
-              // The whole response has been received. Print out the result.
-              resp.on('end', () => {
-                data=JSON.parse(data);
-                twinLog(`Title of the movie:                     ${data.Title}`);
-                twinLog(`Year the movie came out:                ${data.Year}`);    
-                twinLog(`IMDB Rating of the movie:               ${data.imdbRating}`);     
-                twinLog(`Rotten Tomatoes Rating of the movie:    ${data.Title}`);                
-                twinLog(`Country where the movie was produced:   ${data.Country}`);                 
-                twinLog(`Language of the movie:                  ${data.Language}`);  
-                twinLog(`Plot of the movie:                      ${data.Plot}`);                
-                twinLog(`Actors in the movie:                    ${data.Actors}`);
-              });
+                  // A chunk of data has been recieved.
+                  resp.on('data', (chunk) => {
+                    data += chunk;
+                  });
 
-            }).on("error", (err) => {
-              twinLog("Error: " + err.message);
+                  // The whole response has been received. Print out the result.
+                  resp.on('end', () => {
+                    data=JSON.parse(data);
+                    [
+                        ['Title of the movie',                     data.Title],
+                        ['Year the movie came out',                data.Year],    
+                        ['IMDB Rating of the movie',               data.imdbRating],     
+                        ['Rotten Tomatoes Rating of the movie',    data.Title],                
+                        ['Country where the movie was produced',   data.Country],                 
+                        ['Language of the movie',                  data.Language],  
+                        ['Plot of the movie',                      data.Plot],                
+                        ['Actors in the movie',                    data.Actors]
+
+
+                    twinLog(`Actors in the movie:                    ${data.Actors}`);
+                    getInput();
+                  });
+                }).on("error", (err) => {
+                    twinLog("Error: " + err.message);
+                    getInput();
+                });
+
             });
             break;
         case 'do-what-it-says':
@@ -152,14 +186,13 @@ function executeUserCmd(cmd,args) {
                     const j = Math.floor(Math.random() * (i + 1));
                     [randomTxt[i],randomTxt[j]] = [randomTxt[j],randomTxt[i]];
                 }
-                console.log(`Random Command --> ${cmd} ${args}`)
+                console.log(`Random Command --> ${randomTxt[0].cmd} ${randomTxt[0].args}`)
                 executeUserCmd(randomTxt[0].cmd,randomTxt[0].args);
+                return;
             })
             break;
-    
-        default:
-            fileLog(`LIRI called with bogus command ${cmd}`);
-            usage();
+        case 'exit':
+            twinLog('Adios my fring');
             break;
     }
 }
