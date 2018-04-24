@@ -128,3 +128,911 @@ LIRI called with bogus command foobar
 LIRI called with bogus command foobar
 LIRI called with bogus command foobar
 LIRI called with bogus command foobar
+LIRI executeUserCmd called with command do-what-it-says with args ><
+LIRI executeUserCmd called with command spotify-this-song with args >"Brick House"<
+Song Name: Brick House
+Preview Link: null
+Artist(s): Commodores
+Album: Commodores
+LIRI executeUserCmd called with command do-what-it-says with args ><
+LIRI executeUserCmd called with command spotify-this-song with args >"I Want it That Way"<
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=bb5314b285d44faca4e99f1707410b0c
+Album: The Hits--Chapter One
+Artist(s): Backstreet Boys
+LIRI executeUserCmd called with command do-what-it-says with args ><
+LIRI executeUserCmd called with command movie-this with args >"Citizen Kane"<
+Title of the movie:                     Citizen Kane
+Year the movie came out:                1941
+Rotten Tomatoes Rating of the movie:    Citizen Kane
+Plot of the movie:                      Following the death of a publishing tycoon, news reporters scramble to discover the meaning of his final utterance.
+Actors in the movie:                    Joseph Cotten, Dorothy Comingore, Agnes Moorehead, Ruth Warrick
+Country where the movie was produced:   USA
+Language of the movie:                  English
+IMDB Rating of the movie:               8.4
+LIRI called with bogus command 
+LIRI executeUserCmd called with command do-what-it-says with args ><
+LIRI executeUserCmd called with command movie-this with args >"Citizen Kane"<
+Title of the movie:                     Citizen Kane
+Year the movie came out:                1941
+Rotten Tomatoes Rating of the movie:    Citizen Kane
+Plot of the movie:                      Following the death of a publishing tycoon, news reporters scramble to discover the meaning of his final utterance.
+IMDB Rating of the movie:               8.4
+Actors in the movie:                    Joseph Cotten, Dorothy Comingore, Agnes Moorehead, Ruth Warrick
+Language of the movie:                  English
+Country where the movie was produced:   USA
+LIRI executeUserCmd called with command my-tweets with args ><
+DuckDuckGo is my search engine of choice. #ComeToTheDuckSide - we have privacy. https://t.co/hXWSmjdaIM
+@Starbucks I am pretty sure this is a shakedown for $ staged by the two men &amp;  lawyer. slight possibility the employee is in on it too.
+RT @F5Security: "Combating seven common threat techniques in 2018" by @F5NetworksEMEA's @Keiron_Shep: https://t.co/H7kEb9IIKL via @IT_SecGu…
+RT @F5Security: “5 myths of API security”: https://t.co/US3lnfD27l via @CSOonline #cybersecurity
+RT @F5Security: "There is no such thing as a non-critical app when it comes to #security" by @lmacvittie: https://t.co/YyRScEPqER #cloud #W…
+RT @F5Security: Calling #RSAC attendees: Don’t miss the presentation from F5’s @dholmesf5 on “Secrets of the Encrypted Internet—Worldwide C…
+RT @F5Security: [Blog] @F5Networks' SVP &amp; GM of Security, Ram Krishnan, discusses the details surrounding the launch of F5 Advanced #WAF, "…
+RT @NakedWinesCOM: The way 99% of people choose their wine is hilarious  https://t.co/Hcvgz3WaCB
+RT @F5Security: "What makes a #WAF advanced?" by @F5Networks' @bamchenry: https://t.co/DYvIClyELz #AppSec https://t.co/S86EYImTQ3
+RT @RimoteSaS: #IT #Security issues with #OpenSSL, a Secure Sockets Layer toolkit https://t.co/ffDEYalFrR https://t.co/tjnqFGLNSq Please up…
+RT @F5Security: Uncover #IoT security trends in the @F5Labs Threat Analysis Report, “The Hunt for IoT: The Growth and Evolution of Thingbot…
+RT @abacohosting: Our SSL or Secure Sockets Layer certificates will protect confidential data on your website including passwords, payment…
+RT @betterwebservic: SSL (Secure Sockets Layer) https://t.co/r345C2qemB
+RT @ubuntu: With only two weeks to go until Ubuntu 18.04, here are the latest updates from the server team! https://t.co/Ye0NaBch6Y https:/…
+RT @ExtraHop: Next week we’re heading to San Francisco for #RSAC. Drop by South Expo Booth 2307 to say hello! https://t.co/q8NeDwiN78 https…
+RT @Azure: This week’s #AzureTrivia question is here. So, GAME ON. Answer for your chance to win cool prizes! https://t.co/WLBogBiDF0
+RT @whitehatsec: The combination of #microservices and #APIs is the fabric of #applications. WhiteHat CEO @CraigHinkley looks at how WhiteH…
+RT @megazone: I'm not sure if it is good or bad that I got this immediately.  And laughed. https://t.co/YUXoRH2lEA
+RT @iamdevloper: when you're reminded you wrote the world's biggest social network in PHP https://t.co/bnXqNeDjiC
+RT @WalkMeInc: Eliminate User Confusion with Customized On-Screen Guidance. https://t.co/1DyoLCoWdh
+LIRI executeUserCmd called with command my-tweets with args ><
+DuckDuckGo is my search engine of choice. #ComeToTheDuckSide - we have privacy. https://t.co/hXWSmjdaIM
+RT @F5Security: “5 myths of API security”: https://t.co/US3lnfD27l via @CSOonline #cybersecurity
+RT @F5Security: "Combating seven common threat techniques in 2018" by @F5NetworksEMEA's @Keiron_Shep: https://t.co/H7kEb9IIKL via @IT_SecGu…
+RT @F5Security: "There is no such thing as a non-critical app when it comes to #security" by @lmacvittie: https://t.co/YyRScEPqER #cloud #W…
+RT @NakedWinesCOM: The way 99% of people choose their wine is hilarious  https://t.co/Hcvgz3WaCB
+RT @F5Security: Calling #RSAC attendees: Don’t miss the presentation from F5’s @dholmesf5 on “Secrets of the Encrypted Internet—Worldwide C…
+RT @F5Security: [Blog] @F5Networks' SVP &amp; GM of Security, Ram Krishnan, discusses the details surrounding the launch of F5 Advanced #WAF, "…
+RT @F5Security: "What makes a #WAF advanced?" by @F5Networks' @bamchenry: https://t.co/DYvIClyELz #AppSec https://t.co/S86EYImTQ3
+RT @F5Security: Uncover #IoT security trends in the @F5Labs Threat Analysis Report, “The Hunt for IoT: The Growth and Evolution of Thingbot…
+RT @RimoteSaS: #IT #Security issues with #OpenSSL, a Secure Sockets Layer toolkit https://t.co/ffDEYalFrR https://t.co/tjnqFGLNSq Please up…
+RT @abacohosting: Our SSL or Secure Sockets Layer certificates will protect confidential data on your website including passwords, payment…
+RT @betterwebservic: SSL (Secure Sockets Layer) https://t.co/r345C2qemB
+RT @ubuntu: With only two weeks to go until Ubuntu 18.04, here are the latest updates from the server team! https://t.co/Ye0NaBch6Y https:/…
+RT @ExtraHop: Next week we’re heading to San Francisco for #RSAC. Drop by South Expo Booth 2307 to say hello! https://t.co/q8NeDwiN78 https…
+RT @Azure: This week’s #AzureTrivia question is here. So, GAME ON. Answer for your chance to win cool prizes! https://t.co/WLBogBiDF0
+RT @whitehatsec: The combination of #microservices and #APIs is the fabric of #applications. WhiteHat CEO @CraigHinkley looks at how WhiteH…
+RT @megazone: I'm not sure if it is good or bad that I got this immediately.  And laughed. https://t.co/YUXoRH2lEA
+@Starbucks I am pretty sure this is a shakedown for $ staged by the two men &amp;  lawyer. slight possibility the employee is in on it too.
+RT @iamdevloper: when you're reminded you wrote the world's biggest social network in PHP https://t.co/bnXqNeDjiC
+RT @WalkMeInc: Eliminate User Confusion with Customized On-Screen Guidance. https://t.co/1DyoLCoWdh
+LIRI called with bogus command 
+LIRI called with bogus command 
+LIRI called with bogus command 
+LIRI called with bogus command 
+LIRI called with bogus command 
+LIRI called with bogus command 
+LIRI called with bogus command 
+LIRI called with bogus command 
+LIRI called with bogus command 
+LIRI executeUserCmd called with command movie-this with args >empire,strikes<
+Year the movie came out:                1980
+IMDB Rating of the movie:               8.8
+Rotten Tomatoes Rating of the movie:    Star Wars: Episode V - The Empire Strikes Back
+Country where the movie was produced:   USA
+Language of the movie:                  English
+Plot of the movie:                      After the rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda, while his friends are pursued by Darth Vader.
+Actors in the movie:                    Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams
+Title of the movie:                     Star Wars: Episode V - The Empire Strikes Back
+LIRI executeUserCmd called with command my-tweets with args ><
+DuckDuckGo is my search engine of choice. #ComeToTheDuckSide - we have privacy. https://t.co/hXWSmjdaIM
+@Starbucks I am pretty sure this is a shakedown for $ staged by the two men &amp;  lawyer. slight possibility the employee is in on it too.
+RT @F5Security: "Combating seven common threat techniques in 2018" by @F5NetworksEMEA's @Keiron_Shep: https://t.co/H7kEb9IIKL via @IT_SecGu…
+RT @NakedWinesCOM: The way 99% of people choose their wine is hilarious  https://t.co/Hcvgz3WaCB
+RT @F5Security: "There is no such thing as a non-critical app when it comes to #security" by @lmacvittie: https://t.co/YyRScEPqER #cloud #W…
+RT @F5Security: Calling #RSAC attendees: Don’t miss the presentation from F5’s @dholmesf5 on “Secrets of the Encrypted Internet—Worldwide C…
+RT @F5Security: "What makes a #WAF advanced?" by @F5Networks' @bamchenry: https://t.co/DYvIClyELz #AppSec https://t.co/S86EYImTQ3
+RT @F5Security: [Blog] @F5Networks' SVP &amp; GM of Security, Ram Krishnan, discusses the details surrounding the launch of F5 Advanced #WAF, "…
+RT @RimoteSaS: #IT #Security issues with #OpenSSL, a Secure Sockets Layer toolkit https://t.co/ffDEYalFrR https://t.co/tjnqFGLNSq Please up…
+RT @F5Security: Uncover #IoT security trends in the @F5Labs Threat Analysis Report, “The Hunt for IoT: The Growth and Evolution of Thingbot…
+RT @betterwebservic: SSL (Secure Sockets Layer) https://t.co/r345C2qemB
+RT @abacohosting: Our SSL or Secure Sockets Layer certificates will protect confidential data on your website including passwords, payment…
+RT @ubuntu: With only two weeks to go until Ubuntu 18.04, here are the latest updates from the server team! https://t.co/Ye0NaBch6Y https:/…
+RT @ExtraHop: Next week we’re heading to San Francisco for #RSAC. Drop by South Expo Booth 2307 to say hello! https://t.co/q8NeDwiN78 https…
+RT @Azure: This week’s #AzureTrivia question is here. So, GAME ON. Answer for your chance to win cool prizes! https://t.co/WLBogBiDF0
+RT @F5Security: “5 myths of API security”: https://t.co/US3lnfD27l via @CSOonline #cybersecurity
+RT @whitehatsec: The combination of #microservices and #APIs is the fabric of #applications. WhiteHat CEO @CraigHinkley looks at how WhiteH…
+RT @megazone: I'm not sure if it is good or bad that I got this immediately.  And laughed. https://t.co/YUXoRH2lEA
+RT @iamdevloper: when you're reminded you wrote the world's biggest social network in PHP https://t.co/bnXqNeDjiC
+RT @WalkMeInc: Eliminate User Confusion with Customized On-Screen Guidance. https://t.co/1DyoLCoWdh
+LIRI executeUserCmd called with command undefined with args >undefined<
+LIRI called with bogus command undefined
+LIRI executeUserCmd called with command undefined with args >undefined<
+LIRI called with bogus command undefined
+LIRI executeUserCmd called with command undefined with args >undefined<
+LIRI called with bogus command undefined
+LIRI executeUserCmd called with command undefined with args >undefined<
+LIRI called with bogus command undefined
+LIRI executeUserCmd called with command undefined with args >undefined<
+LIRI called with bogus command undefined
+LIRI executeUserCmd called with command undefined with args >undefined<
+LIRI called with bogus command undefined
+LIRI executeUserCmd called with command undefined with args >undefined<
+LIRI called with bogus command undefined
+LIRI executeUserCmd called with command undefined with args >undefined<
+LIRI called with bogus command undefined
+LIRI called with bogus command undefined
+LIRI executeUserCmd called with command undefined with args >undefined<
+LIRI called with bogus command undefined
+DuckDuckGo is my search engine of choice. #ComeToTheDuckSide - we have privacy. https://t.co/hXWSmjdaIM
+@Starbucks I am pretty sure this is a shakedown for $ staged by the two men &amp;  lawyer. slight possibility the employee is in on it too.
+RT @F5Security: “5 myths of API security”: https://t.co/US3lnfD27l via @CSOonline #cybersecurity
+RT @F5Security: "Combating seven common threat techniques in 2018" by @F5NetworksEMEA's @Keiron_Shep: https://t.co/H7kEb9IIKL via @IT_SecGu…
+RT @F5Security: "There is no such thing as a non-critical app when it comes to #security" by @lmacvittie: https://t.co/YyRScEPqER #cloud #W…
+RT @F5Security: Calling #RSAC attendees: Don’t miss the presentation from F5’s @dholmesf5 on “Secrets of the Encrypted Internet—Worldwide C…
+RT @F5Security: [Blog] @F5Networks' SVP &amp; GM of Security, Ram Krishnan, discusses the details surrounding the launch of F5 Advanced #WAF, "…
+RT @F5Security: Uncover #IoT security trends in the @F5Labs Threat Analysis Report, “The Hunt for IoT: The Growth and Evolution of Thingbot…
+RT @RimoteSaS: #IT #Security issues with #OpenSSL, a Secure Sockets Layer toolkit https://t.co/ffDEYalFrR https://t.co/tjnqFGLNSq Please up…
+RT @F5Security: "What makes a #WAF advanced?" by @F5Networks' @bamchenry: https://t.co/DYvIClyELz #AppSec https://t.co/S86EYImTQ3
+RT @abacohosting: Our SSL or Secure Sockets Layer certificates will protect confidential data on your website including passwords, payment…
+RT @betterwebservic: SSL (Secure Sockets Layer) https://t.co/r345C2qemB
+RT @NakedWinesCOM: The way 99% of people choose their wine is hilarious  https://t.co/Hcvgz3WaCB
+RT @ubuntu: With only two weeks to go until Ubuntu 18.04, here are the latest updates from the server team! https://t.co/Ye0NaBch6Y https:/…
+RT @ExtraHop: Next week we’re heading to San Francisco for #RSAC. Drop by South Expo Booth 2307 to say hello! https://t.co/q8NeDwiN78 https…
+RT @Azure: This week’s #AzureTrivia question is here. So, GAME ON. Answer for your chance to win cool prizes! https://t.co/WLBogBiDF0
+RT @whitehatsec: The combination of #microservices and #APIs is the fabric of #applications. WhiteHat CEO @CraigHinkley looks at how WhiteH…
+RT @megazone: I'm not sure if it is good or bad that I got this immediately.  And laughed. https://t.co/YUXoRH2lEA
+RT @iamdevloper: when you're reminded you wrote the world's biggest social network in PHP https://t.co/bnXqNeDjiC
+RT @WalkMeInc: Eliminate User Confusion with Customized On-Screen Guidance. https://t.co/1DyoLCoWdh
+Title of the movie:                     undefined
+Year the movie came out:                undefined
+Country where the movie was produced:   undefined
+IMDB Rating of the movie:               undefined
+Language of the movie:                  undefined
+Actors in the movie:                    undefined
+Plot of the movie:                      undefined
+Rotten Tomatoes Rating of the movie:    undefined
+Artist(s): Hank Williams
+Song Name: (I'm Gonna) Sing, Sing, Sing - Undubbed Version
+Album: I Saw The Light
+Preview Link: null
+Title of the movie:                     Star Wars: Episode IV - A New Hope
+Year the movie came out:                1977
+Rotten Tomatoes Rating of the movie:    Star Wars: Episode IV - A New Hope
+Language of the movie:                  English
+Plot of the movie:                      Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle-station while also attempting to rescue Princess Leia from the evil Darth Vader.
+Country where the movie was produced:   USA
+Actors in the movie:                    Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing
+IMDB Rating of the movie:               8.6
+DuckDuckGo is my search engine of choice. #ComeToTheDuckSide - we have privacy. https://t.co/hXWSmjdaIM
+@Starbucks I am pretty sure this is a shakedown for $ staged by the two men &amp;  lawyer. slight possibility the employee is in on it too.
+RT @F5Security: “5 myths of API security”: https://t.co/US3lnfD27l via @CSOonline #cybersecurity
+RT @F5Security: "Combating seven common threat techniques in 2018" by @F5NetworksEMEA's @Keiron_Shep: https://t.co/H7kEb9IIKL via @IT_SecGu…
+RT @F5Security: "There is no such thing as a non-critical app when it comes to #security" by @lmacvittie: https://t.co/YyRScEPqER #cloud #W…
+RT @NakedWinesCOM: The way 99% of people choose their wine is hilarious  https://t.co/Hcvgz3WaCB
+RT @F5Security: Calling #RSAC attendees: Don’t miss the presentation from F5’s @dholmesf5 on “Secrets of the Encrypted Internet—Worldwide C…
+RT @F5Security: [Blog] @F5Networks' SVP &amp; GM of Security, Ram Krishnan, discusses the details surrounding the launch of F5 Advanced #WAF, "…
+RT @F5Security: "What makes a #WAF advanced?" by @F5Networks' @bamchenry: https://t.co/DYvIClyELz #AppSec https://t.co/S86EYImTQ3
+RT @F5Security: Uncover #IoT security trends in the @F5Labs Threat Analysis Report, “The Hunt for IoT: The Growth and Evolution of Thingbot…
+RT @RimoteSaS: #IT #Security issues with #OpenSSL, a Secure Sockets Layer toolkit https://t.co/ffDEYalFrR https://t.co/tjnqFGLNSq Please up…
+RT @abacohosting: Our SSL or Secure Sockets Layer certificates will protect confidential data on your website including passwords, payment…
+RT @betterwebservic: SSL (Secure Sockets Layer) https://t.co/r345C2qemB
+RT @ubuntu: With only two weeks to go until Ubuntu 18.04, here are the latest updates from the server team! https://t.co/Ye0NaBch6Y https:/…
+RT @ExtraHop: Next week we’re heading to San Francisco for #RSAC. Drop by South Expo Booth 2307 to say hello! https://t.co/q8NeDwiN78 https…
+RT @Azure: This week’s #AzureTrivia question is here. So, GAME ON. Answer for your chance to win cool prizes! https://t.co/WLBogBiDF0
+RT @whitehatsec: The combination of #microservices and #APIs is the fabric of #applications. WhiteHat CEO @CraigHinkley looks at how WhiteH…
+RT @megazone: I'm not sure if it is good or bad that I got this immediately.  And laughed. https://t.co/YUXoRH2lEA
+RT @iamdevloper: when you're reminded you wrote the world's biggest social network in PHP https://t.co/bnXqNeDjiC
+RT @WalkMeInc: Eliminate User Confusion with Customized On-Screen Guidance. https://t.co/1DyoLCoWdh
+Adios my fring
+LIRI executeUserCmd called with command movie-this with args >"Citizen Kane"<
+Title of the movie:                     Citizen Kane
+Year the movie came out:                1941
+IMDB Rating of the movie:               8.4
+Rotten Tomatoes Rating of the movie:    Citizen Kane
+Country where the movie was produced:   USA
+Language of the movie:                  English
+Actors in the movie:                    Joseph Cotten, Dorothy Comingore, Agnes Moorehead, Ruth Warrick
+Plot of the movie:                      Following the death of a publishing tycoon, news reporters scramble to discover the meaning of his final utterance.
+DuckDuckGo is my search engine of choice. #ComeToTheDuckSide - we have privacy. https://t.co/hXWSmjdaIM
+@Starbucks I am pretty sure this is a shakedown for $ staged by the two men &amp;  lawyer. slight possibility the employee is in on it too.
+RT @F5Security: “5 myths of API security”: https://t.co/US3lnfD27l via @CSOonline #cybersecurity
+RT @F5Security: "Combating seven common threat techniques in 2018" by @F5NetworksEMEA's @Keiron_Shep: https://t.co/H7kEb9IIKL via @IT_SecGu…
+RT @F5Security: "There is no such thing as a non-critical app when it comes to #security" by @lmacvittie: https://t.co/YyRScEPqER #cloud #W…
+RT @NakedWinesCOM: The way 99% of people choose their wine is hilarious  https://t.co/Hcvgz3WaCB
+RT @F5Security: Calling #RSAC attendees: Don’t miss the presentation from F5’s @dholmesf5 on “Secrets of the Encrypted Internet—Worldwide C…
+RT @F5Security: [Blog] @F5Networks' SVP &amp; GM of Security, Ram Krishnan, discusses the details surrounding the launch of F5 Advanced #WAF, "…
+RT @F5Security: "What makes a #WAF advanced?" by @F5Networks' @bamchenry: https://t.co/DYvIClyELz #AppSec https://t.co/S86EYImTQ3
+RT @F5Security: Uncover #IoT security trends in the @F5Labs Threat Analysis Report, “The Hunt for IoT: The Growth and Evolution of Thingbot…
+RT @RimoteSaS: #IT #Security issues with #OpenSSL, a Secure Sockets Layer toolkit https://t.co/ffDEYalFrR https://t.co/tjnqFGLNSq Please up…
+RT @abacohosting: Our SSL or Secure Sockets Layer certificates will protect confidential data on your website including passwords, payment…
+RT @betterwebservic: SSL (Secure Sockets Layer) https://t.co/r345C2qemB
+RT @ubuntu: With only two weeks to go until Ubuntu 18.04, here are the latest updates from the server team! https://t.co/Ye0NaBch6Y https:/…
+RT @ExtraHop: Next week we’re heading to San Francisco for #RSAC. Drop by South Expo Booth 2307 to say hello! https://t.co/q8NeDwiN78 https…
+RT @Azure: This week’s #AzureTrivia question is here. So, GAME ON. Answer for your chance to win cool prizes! https://t.co/WLBogBiDF0
+RT @whitehatsec: The combination of #microservices and #APIs is the fabric of #applications. WhiteHat CEO @CraigHinkley looks at how WhiteH…
+RT @megazone: I'm not sure if it is good or bad that I got this immediately.  And laughed. https://t.co/YUXoRH2lEA
+RT @iamdevloper: when you're reminded you wrote the world's biggest social network in PHP https://t.co/bnXqNeDjiC
+RT @WalkMeInc: Eliminate User Confusion with Customized On-Screen Guidance. https://t.co/1DyoLCoWdh
+DuckDuckGo is my search engine of choice. #ComeToTheDuckSide - we have privacy. https://t.co/hXWSmjdaIM
+@Starbucks I am pretty sure this is a shakedown for $ staged by the two men &amp;  lawyer. slight possibility the employee is in on it too.
+RT @F5Security: "There is no such thing as a non-critical app when it comes to #security" by @lmacvittie: https://t.co/YyRScEPqER #cloud #W…
+RT @F5Security: "Combating seven common threat techniques in 2018" by @F5NetworksEMEA's @Keiron_Shep: https://t.co/H7kEb9IIKL via @IT_SecGu…
+RT @F5Security: Calling #RSAC attendees: Don’t miss the presentation from F5’s @dholmesf5 on “Secrets of the Encrypted Internet—Worldwide C…
+RT @F5Security: [Blog] @F5Networks' SVP &amp; GM of Security, Ram Krishnan, discusses the details surrounding the launch of F5 Advanced #WAF, "…
+RT @F5Security: "What makes a #WAF advanced?" by @F5Networks' @bamchenry: https://t.co/DYvIClyELz #AppSec https://t.co/S86EYImTQ3
+RT @F5Security: “5 myths of API security”: https://t.co/US3lnfD27l via @CSOonline #cybersecurity
+RT @F5Security: Uncover #IoT security trends in the @F5Labs Threat Analysis Report, “The Hunt for IoT: The Growth and Evolution of Thingbot…
+RT @RimoteSaS: #IT #Security issues with #OpenSSL, a Secure Sockets Layer toolkit https://t.co/ffDEYalFrR https://t.co/tjnqFGLNSq Please up…
+RT @NakedWinesCOM: The way 99% of people choose their wine is hilarious  https://t.co/Hcvgz3WaCB
+RT @abacohosting: Our SSL or Secure Sockets Layer certificates will protect confidential data on your website including passwords, payment…
+RT @betterwebservic: SSL (Secure Sockets Layer) https://t.co/r345C2qemB
+RT @ubuntu: With only two weeks to go until Ubuntu 18.04, here are the latest updates from the server team! https://t.co/Ye0NaBch6Y https:/…
+RT @ExtraHop: Next week we’re heading to San Francisco for #RSAC. Drop by South Expo Booth 2307 to say hello! https://t.co/q8NeDwiN78 https…
+RT @Azure: This week’s #AzureTrivia question is here. So, GAME ON. Answer for your chance to win cool prizes! https://t.co/WLBogBiDF0
+RT @whitehatsec: The combination of #microservices and #APIs is the fabric of #applications. WhiteHat CEO @CraigHinkley looks at how WhiteH…
+RT @megazone: I'm not sure if it is good or bad that I got this immediately.  And laughed. https://t.co/YUXoRH2lEA
+RT @iamdevloper: when you're reminded you wrote the world's biggest social network in PHP https://t.co/bnXqNeDjiC
+RT @WalkMeInc: Eliminate User Confusion with Customized On-Screen Guidance. https://t.co/1DyoLCoWdh
+DuckDuckGo is my search engine of choice. #ComeToTheDuckSide - we have privacy. https://t.co/hXWSmjdaIM
+@Starbucks I am pretty sure this is a shakedown for $ staged by the two men &amp;  lawyer. slight possibility the employee is in on it too.
+RT @F5Security: "Combating seven common threat techniques in 2018" by @F5NetworksEMEA's @Keiron_Shep: https://t.co/H7kEb9IIKL via @IT_SecGu…
+RT @F5Security: "There is no such thing as a non-critical app when it comes to #security" by @lmacvittie: https://t.co/YyRScEPqER #cloud #W…
+RT @F5Security: Calling #RSAC attendees: Don’t miss the presentation from F5’s @dholmesf5 on “Secrets of the Encrypted Internet—Worldwide C…
+RT @NakedWinesCOM: The way 99% of people choose their wine is hilarious  https://t.co/Hcvgz3WaCB
+RT @F5Security: “5 myths of API security”: https://t.co/US3lnfD27l via @CSOonline #cybersecurity
+RT @F5Security: "What makes a #WAF advanced?" by @F5Networks' @bamchenry: https://t.co/DYvIClyELz #AppSec https://t.co/S86EYImTQ3
+RT @RimoteSaS: #IT #Security issues with #OpenSSL, a Secure Sockets Layer toolkit https://t.co/ffDEYalFrR https://t.co/tjnqFGLNSq Please up…
+RT @F5Security: Uncover #IoT security trends in the @F5Labs Threat Analysis Report, “The Hunt for IoT: The Growth and Evolution of Thingbot…
+RT @F5Security: [Blog] @F5Networks' SVP &amp; GM of Security, Ram Krishnan, discusses the details surrounding the launch of F5 Advanced #WAF, "…
+RT @ExtraHop: Next week we’re heading to San Francisco for #RSAC. Drop by South Expo Booth 2307 to say hello! https://t.co/q8NeDwiN78 https…
+RT @Azure: This week’s #AzureTrivia question is here. So, GAME ON. Answer for your chance to win cool prizes! https://t.co/WLBogBiDF0
+RT @abacohosting: Our SSL or Secure Sockets Layer certificates will protect confidential data on your website including passwords, payment…
+RT @whitehatsec: The combination of #microservices and #APIs is the fabric of #applications. WhiteHat CEO @CraigHinkley looks at how WhiteH…
+RT @iamdevloper: when you're reminded you wrote the world's biggest social network in PHP https://t.co/bnXqNeDjiC
+RT @megazone: I'm not sure if it is good or bad that I got this immediately.  And laughed. https://t.co/YUXoRH2lEA
+RT @ubuntu: With only two weeks to go until Ubuntu 18.04, here are the latest updates from the server team! https://t.co/Ye0NaBch6Y https:/…
+RT @betterwebservic: SSL (Secure Sockets Layer) https://t.co/r345C2qemB
+RT @WalkMeInc: Eliminate User Confusion with Customized On-Screen Guidance. https://t.co/1DyoLCoWdh
+Artist(s): Talking Heads
+Preview Link: https://p.scdn.co/mp3-preview/432f0a07853dccc2db408fb2347633c2886c5f93?cid=bb5314b285d44faca4e99f1707410b0c
+Song Name: Burning Down The House (45 Version)
+Album: Burning Down The House / I Get Wild/Wild Gravity [Digital 45]
+DuckDuckGo is my search engine of choice. #ComeToTheDuckSide - we have privacy. https://t.co/hXWSmjdaIM
+@Starbucks I am pretty sure this is a shakedown for $ staged by the two men &amp;  lawyer. slight possibility the employee is in on it too.
+RT @F5Security: "Combating seven common threat techniques in 2018" by @F5NetworksEMEA's @Keiron_Shep: https://t.co/H7kEb9IIKL via @IT_SecGu…
+RT @F5Security: Calling #RSAC attendees: Don’t miss the presentation from F5’s @dholmesf5 on “Secrets of the Encrypted Internet—Worldwide C…
+RT @F5Security: "There is no such thing as a non-critical app when it comes to #security" by @lmacvittie: https://t.co/YyRScEPqER #cloud #W…
+RT @F5Security: [Blog] @F5Networks' SVP &amp; GM of Security, Ram Krishnan, discusses the details surrounding the launch of F5 Advanced #WAF, "…
+RT @F5Security: Uncover #IoT security trends in the @F5Labs Threat Analysis Report, “The Hunt for IoT: The Growth and Evolution of Thingbot…
+RT @NakedWinesCOM: The way 99% of people choose their wine is hilarious  https://t.co/Hcvgz3WaCB
+RT @F5Security: “5 myths of API security”: https://t.co/US3lnfD27l via @CSOonline #cybersecurity
+RT @RimoteSaS: #IT #Security issues with #OpenSSL, a Secure Sockets Layer toolkit https://t.co/ffDEYalFrR https://t.co/tjnqFGLNSq Please up…
+RT @betterwebservic: SSL (Secure Sockets Layer) https://t.co/r345C2qemB
+RT @abacohosting: Our SSL or Secure Sockets Layer certificates will protect confidential data on your website including passwords, payment…
+RT @ubuntu: With only two weeks to go until Ubuntu 18.04, here are the latest updates from the server team! https://t.co/Ye0NaBch6Y https:/…
+RT @ExtraHop: Next week we’re heading to San Francisco for #RSAC. Drop by South Expo Booth 2307 to say hello! https://t.co/q8NeDwiN78 https…
+RT @F5Security: "What makes a #WAF advanced?" by @F5Networks' @bamchenry: https://t.co/DYvIClyELz #AppSec https://t.co/S86EYImTQ3
+RT @Azure: This week’s #AzureTrivia question is here. So, GAME ON. Answer for your chance to win cool prizes! https://t.co/WLBogBiDF0
+RT @whitehatsec: The combination of #microservices and #APIs is the fabric of #applications. WhiteHat CEO @CraigHinkley looks at how WhiteH…
+RT @iamdevloper: when you're reminded you wrote the world's biggest social network in PHP https://t.co/bnXqNeDjiC
+RT @megazone: I'm not sure if it is good or bad that I got this immediately.  And laughed. https://t.co/YUXoRH2lEA
+RT @WalkMeInc: Eliminate User Confusion with Customized On-Screen Guidance. https://t.co/1DyoLCoWdh
+LIRI executeUserCmd called with command movie-this with args >"Solomon Kane"<
+Year the movie came out:                2009
+IMDB Rating of the movie:               6.1
+Title of the movie:                     Solomon Kane
+Language of the movie:                  English, Arabic
+Country where the movie was produced:   Czech Republic, UK, France
+Plot of the movie:                      A ruthless mercenary renounces violence after learning his soul is bound for hell. When a young girl is kidnapped and her family slain by a sorcerer's murderous cult, he is forced to fight and seek his redemption slaying evil.
+Rotten Tomatoes Rating of the movie:    Solomon Kane
+Actors in the movie:                    James Purefoy, Mark O'Neal, Robert Orr, Richard Ryan
+Artist(s): Ace of Base
+Song Name: The Sign
+Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=bb5314b285d44faca4e99f1707410b0c
+Album: The Sign (US Album) [Remastered]
+DuckDuckGo is my search engine of choice. #ComeToTheDuckSide - we have privacy. https://t.co/hXWSmjdaIM
+@Starbucks I am pretty sure this is a shakedown for $ staged by the two men &amp;  lawyer. slight possibility the employee is in on it too.
+RT @F5Security: "Combating seven common threat techniques in 2018" by @F5NetworksEMEA's @Keiron_Shep: https://t.co/H7kEb9IIKL via @IT_SecGu…
+RT @F5Security: Calling #RSAC attendees: Don’t miss the presentation from F5’s @dholmesf5 on “Secrets of the Encrypted Internet—Worldwide C…
+RT @F5Security: [Blog] @F5Networks' SVP &amp; GM of Security, Ram Krishnan, discusses the details surrounding the launch of F5 Advanced #WAF, "…
+RT @F5Security: "There is no such thing as a non-critical app when it comes to #security" by @lmacvittie: https://t.co/YyRScEPqER #cloud #W…
+RT @F5Security: "What makes a #WAF advanced?" by @F5Networks' @bamchenry: https://t.co/DYvIClyELz #AppSec https://t.co/S86EYImTQ3
+RT @NakedWinesCOM: The way 99% of people choose their wine is hilarious  https://t.co/Hcvgz3WaCB
+RT @F5Security: Uncover #IoT security trends in the @F5Labs Threat Analysis Report, “The Hunt for IoT: The Growth and Evolution of Thingbot…
+RT @F5Security: “5 myths of API security”: https://t.co/US3lnfD27l via @CSOonline #cybersecurity
+RT @RimoteSaS: #IT #Security issues with #OpenSSL, a Secure Sockets Layer toolkit https://t.co/ffDEYalFrR https://t.co/tjnqFGLNSq Please up…
+RT @ubuntu: With only two weeks to go until Ubuntu 18.04, here are the latest updates from the server team! https://t.co/Ye0NaBch6Y https:/…
+RT @ExtraHop: Next week we’re heading to San Francisco for #RSAC. Drop by South Expo Booth 2307 to say hello! https://t.co/q8NeDwiN78 https…
+RT @Azure: This week’s #AzureTrivia question is here. So, GAME ON. Answer for your chance to win cool prizes! https://t.co/WLBogBiDF0
+RT @abacohosting: Our SSL or Secure Sockets Layer certificates will protect confidential data on your website including passwords, payment…
+RT @megazone: I'm not sure if it is good or bad that I got this immediately.  And laughed. https://t.co/YUXoRH2lEA
+RT @whitehatsec: The combination of #microservices and #APIs is the fabric of #applications. WhiteHat CEO @CraigHinkley looks at how WhiteH…
+RT @WalkMeInc: Eliminate User Confusion with Customized On-Screen Guidance. https://t.co/1DyoLCoWdh
+RT @iamdevloper: when you're reminded you wrote the world's biggest social network in PHP https://t.co/bnXqNeDjiC
+RT @betterwebservic: SSL (Secure Sockets Layer) https://t.co/r345C2qemB
+Artist(s): Krept & Konan
+Song Name: Freak Of The Week
+Preview Link: null
+Album: The Long Way Home
+Artist(s): Krept & Konan
+Song Name: Freak Of The Week
+Preview Link: null
+Album: The Long Way Home
+Artist(s): Genesis
+Song Name: Second Home by the Sea - 2007 Remastered Version
+Preview Link: https://p.scdn.co/mp3-preview/729e5ad2e9cbdc9353bdb6ec98d17066365b578a?cid=bb5314b285d44faca4e99f1707410b0c
+Album: Genesis
+DuckDuckGo is my search engine of choice. #ComeToTheDuckSide - we have privacy. https://t.co/hXWSmjdaIM
+@Starbucks I am pretty sure this is a shakedown for $ staged by the two men &amp;  lawyer. slight possibility the employee is in on it too.
+RT @F5Security: "There is no such thing as a non-critical app when it comes to #security" by @lmacvittie: https://t.co/YyRScEPqER #cloud #W…
+RT @NakedWinesCOM: The way 99% of people choose their wine is hilarious  https://t.co/Hcvgz3WaCB
+RT @F5Security: Calling #RSAC attendees: Don’t miss the presentation from F5’s @dholmesf5 on “Secrets of the Encrypted Internet—Worldwide C…
+RT @F5Security: [Blog] @F5Networks' SVP &amp; GM of Security, Ram Krishnan, discusses the details surrounding the launch of F5 Advanced #WAF, "…
+RT @F5Security: “5 myths of API security”: https://t.co/US3lnfD27l via @CSOonline #cybersecurity
+RT @F5Security: "What makes a #WAF advanced?" by @F5Networks' @bamchenry: https://t.co/DYvIClyELz #AppSec https://t.co/S86EYImTQ3
+RT @F5Security: Uncover #IoT security trends in the @F5Labs Threat Analysis Report, “The Hunt for IoT: The Growth and Evolution of Thingbot…
+RT @RimoteSaS: #IT #Security issues with #OpenSSL, a Secure Sockets Layer toolkit https://t.co/ffDEYalFrR https://t.co/tjnqFGLNSq Please up…
+RT @abacohosting: Our SSL or Secure Sockets Layer certificates will protect confidential data on your website including passwords, payment…
+RT @F5Security: "Combating seven common threat techniques in 2018" by @F5NetworksEMEA's @Keiron_Shep: https://t.co/H7kEb9IIKL via @IT_SecGu…
+RT @betterwebservic: SSL (Secure Sockets Layer) https://t.co/r345C2qemB
+RT @ubuntu: With only two weeks to go until Ubuntu 18.04, here are the latest updates from the server team! https://t.co/Ye0NaBch6Y https:/…
+RT @ExtraHop: Next week we’re heading to San Francisco for #RSAC. Drop by South Expo Booth 2307 to say hello! https://t.co/q8NeDwiN78 https…
+RT @Azure: This week’s #AzureTrivia question is here. So, GAME ON. Answer for your chance to win cool prizes! https://t.co/WLBogBiDF0
+RT @whitehatsec: The combination of #microservices and #APIs is the fabric of #applications. WhiteHat CEO @CraigHinkley looks at how WhiteH…
+RT @megazone: I'm not sure if it is good or bad that I got this immediately.  And laughed. https://t.co/YUXoRH2lEA
+RT @iamdevloper: when you're reminded you wrote the world's biggest social network in PHP https://t.co/bnXqNeDjiC
+RT @WalkMeInc: Eliminate User Confusion with Customized On-Screen Guidance. https://t.co/1DyoLCoWdh
+Title of the movie:                     Silver Linings Playbook
+IMDB Rating of the movie:               7.8
+Rotten Tomatoes Rating of the movie:    Silver Linings Playbook
+Country where the movie was produced:   USA
+Year the movie came out:                2012
+Plot of the movie:                      After a stint in a mental institution, former teacher Pat Solitano moves back in with his parents and tries to reconcile with his ex-wife. Things get more challenging when Pat meets Tiffany, a mysterious girl with problems of her own.
+Actors in the movie:                    Bradley Cooper, Jennifer Lawrence, Robert De Niro, Jacki Weaver
+Language of the movie:                  English
+LIRI executeUserCmd called with command spotify-this-song with args >"I Want it That Way"<
+Artist(s): Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=bb5314b285d44faca4e99f1707410b0c
+Album: The Hits--Chapter One
+Artist(s): Lipps Inc.
+Song Name: Funky Town
+Preview Link: https://p.scdn.co/mp3-preview/7378227189ebb06cc3bf9fdc99bfc6490843de9d?cid=bb5314b285d44faca4e99f1707410b0c
+Album: Paradas Continuas
+Adios my fring
+Artist(s): Foobar
+Song Name: Illini 393
+Preview Link: https://p.scdn.co/mp3-preview/876423ab9aac01e7de0cc7ce3eb7f9ced039fb88?cid=bb5314b285d44faca4e99f1707410b0c
+Album: Dusk to Dawn - EP
+Artist(s): Ace of Base
+Song Name: The Sign
+Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=bb5314b285d44faca4e99f1707410b0c
+Album: The Sign (US Album) [Remastered]
+Artist(s): Ace of Base
+Song Name: The Sign
+Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=bb5314b285d44faca4e99f1707410b0c
+Album: The Sign (US Album) [Remastered]
+Artist(s): Ace of Base
+Song Name: The Sign
+Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=bb5314b285d44faca4e99f1707410b0c
+Album: The Sign (US Album) [Remastered]
+Artist(s): Ace of Base
+Song Name: The Sign
+Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=bb5314b285d44faca4e99f1707410b0c
+Album: The Sign (US Album) [Remastered]
+Artist(s): Ace of Base
+Song Name: The Sign
+Album: The Sign (US Album) [Remastered]
+Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=bb5314b285d44faca4e99f1707410b0c
+Artist(s): Ace of Base
+Song Name: The Sign
+Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=bb5314b285d44faca4e99f1707410b0c
+Album: The Sign (US Album) [Remastered]
+Artist(s): Ace of Base
+Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=bb5314b285d44faca4e99f1707410b0c
+Song Name: The Sign
+Album: The Sign (US Album) [Remastered]
+Artist(s): Ace of Base
+Song Name: The Sign
+Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=bb5314b285d44faca4e99f1707410b0c
+Album: The Sign (US Album) [Remastered]
+Artist(s): Ace of Base
+Song Name: The Sign
+Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=bb5314b285d44faca4e99f1707410b0c
+Album: The Sign (US Album) [Remastered]
+Artist(s): Ace of Base
+Song Name: The Sign
+Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=bb5314b285d44faca4e99f1707410b0c
+Album: The Sign (US Album) [Remastered]
+Artist(s): Ace of Base
+Song Name: The Sign
+Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=bb5314b285d44faca4e99f1707410b0c
+Album: The Sign (US Album) [Remastered]
+Error occurred: TypeError: Cannot read property 'artists' of undefined
+Error occurred: TypeError: Cannot read property 'artists' of undefined
+Title of the movie:                     undefined
+Year the movie came out:                undefined
+Rotten Tomatoes Rating of the movie:    undefined
+Country where the movie was produced:   undefined
+Language of the movie:                  undefined
+Actors in the movie:                    undefined
+IMDB Rating of the movie:               undefined
+Plot of the movie:                      undefined
+DuckDuckGo is my search engine of choice. #ComeToTheDuckSide - we have privacy. https://t.co/hXWSmjdaIM
+@Starbucks I am pretty sure this is a shakedown for $ staged by the two men &amp;  lawyer. slight possibility the employee is in on it too.
+RT @F5Security: “5 myths of API security”: https://t.co/US3lnfD27l via @CSOonline #cybersecurity
+RT @F5Security: "Combating seven common threat techniques in 2018" by @F5NetworksEMEA's @Keiron_Shep: https://t.co/H7kEb9IIKL via @IT_SecGu…
+RT @F5Security: "There is no such thing as a non-critical app when it comes to #security" by @lmacvittie: https://t.co/YyRScEPqER #cloud #W…
+RT @NakedWinesCOM: The way 99% of people choose their wine is hilarious  https://t.co/Hcvgz3WaCB
+RT @F5Security: Calling #RSAC attendees: Don’t miss the presentation from F5’s @dholmesf5 on “Secrets of the Encrypted Internet—Worldwide C…
+RT @F5Security: [Blog] @F5Networks' SVP &amp; GM of Security, Ram Krishnan, discusses the details surrounding the launch of F5 Advanced #WAF, "…
+RT @F5Security: "What makes a #WAF advanced?" by @F5Networks' @bamchenry: https://t.co/DYvIClyELz #AppSec https://t.co/S86EYImTQ3
+RT @F5Security: Uncover #IoT security trends in the @F5Labs Threat Analysis Report, “The Hunt for IoT: The Growth and Evolution of Thingbot…
+RT @abacohosting: Our SSL or Secure Sockets Layer certificates will protect confidential data on your website including passwords, payment…
+RT @RimoteSaS: #IT #Security issues with #OpenSSL, a Secure Sockets Layer toolkit https://t.co/ffDEYalFrR https://t.co/tjnqFGLNSq Please up…
+RT @ExtraHop: Next week we’re heading to San Francisco for #RSAC. Drop by South Expo Booth 2307 to say hello! https://t.co/q8NeDwiN78 https…
+RT @Azure: This week’s #AzureTrivia question is here. So, GAME ON. Answer for your chance to win cool prizes! https://t.co/WLBogBiDF0
+RT @whitehatsec: The combination of #microservices and #APIs is the fabric of #applications. WhiteHat CEO @CraigHinkley looks at how WhiteH…
+RT @iamdevloper: when you're reminded you wrote the world's biggest social network in PHP https://t.co/bnXqNeDjiC
+RT @ubuntu: With only two weeks to go until Ubuntu 18.04, here are the latest updates from the server team! https://t.co/Ye0NaBch6Y https:/…
+RT @megazone: I'm not sure if it is good or bad that I got this immediately.  And laughed. https://t.co/YUXoRH2lEA
+RT @betterwebservic: SSL (Secure Sockets Layer) https://t.co/r345C2qemB
+RT @WalkMeInc: Eliminate User Confusion with Customized On-Screen Guidance. https://t.co/1DyoLCoWdh
+Artist(s): White Rainbow
+Song Name: ffffffff
+Preview Link: https://p.scdn.co/mp3-preview/3cf3aa4f173c7df5229ba1c8e9d52eb438d2cb27?cid=bb5314b285d44faca4e99f1707410b0c
+Album: Box
+Artist(s): C-Fresh
+Song Name: Welcome to the Bar
+Preview Link: https://p.scdn.co/mp3-preview/372ee329fd1cc851cfaa2c1ee3adfe15474c96d1?cid=bb5314b285d44faca4e99f1707410b0c
+Album: Bar Muzik
+Artist(s): Ace of Base
+Song Name: The Sign
+Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=bb5314b285d44faca4e99f1707410b0c
+Album: The Sign (US Album) [Remastered]
+Artist(s): SZA
+Preview Link: https://p.scdn.co/mp3-preview/300bd09a2ea5231ac4f8de61e8ef7bfd94711a18?cid=bb5314b285d44faca4e99f1707410b0c
+Album: Ctrl
+Song Name: Doves In The Wind
+Artist(s): Trap City
+Song Name: Jingle Bells Trap
+Preview Link: https://p.scdn.co/mp3-preview/145410c8f935b85e7c15361ef9d0bfbe5af72dde?cid=bb5314b285d44faca4e99f1707410b0c
+Album: Christmas Trap
+Error occurred: TypeError: Cannot read property 'artists' of undefined
+Title of the movie:                     undefined
+Year the movie came out:                undefined
+IMDB Rating of the movie:               undefined
+Rotten Tomatoes Rating of the movie:    undefined
+Language of the movie:                  undefined
+Plot of the movie:                      undefined
+Actors in the movie:                    undefined
+Country where the movie was produced:   undefined
+Title of the movie:                     undefined
+Year the movie came out:                undefined
+Country where the movie was produced:   undefined
+Language of the movie:                  undefined
+IMDB Rating of the movie:               undefined
+Rotten Tomatoes Rating of the movie:    undefined
+Plot of the movie:                      undefined
+Actors in the movie:                    undefined
+Artist(s): Ultimate Power Duo
+Song Name: Count Chocula
+Preview Link: https://p.scdn.co/mp3-preview/acfc14ad950939a833f11db59b21cd7e505e6a6a?cid=bb5314b285d44faca4e99f1707410b0c
+Album: New Normal
+Artist(s): Ultimate Power Duo
+Song Name: Count Chocula
+Preview Link: https://p.scdn.co/mp3-preview/acfc14ad950939a833f11db59b21cd7e505e6a6a?cid=bb5314b285d44faca4e99f1707410b0c
+Album: New Normal
+Artist(s): Ultimate Power Duo
+Preview Link: https://p.scdn.co/mp3-preview/acfc14ad950939a833f11db59b21cd7e505e6a6a?cid=bb5314b285d44faca4e99f1707410b0c
+Album: New Normal
+Song Name: Count Chocula
+Artist(s): Jimmy Eat World
+Preview Link: null
+Album: Bleed American
+Song Name: Hear You Me
+Artist(s): Casey Donahew
+Song Name: Go to Hell
+Preview Link: https://p.scdn.co/mp3-preview/8f04b6d2cf0578df1c528c57ce0b46545ef8df23?cid=bb5314b285d44faca4e99f1707410b0c
+Album: Standoff
+Error occurred: TypeError: Cannot read property 'artists' of undefined
+Artist(s): Toilet Boys
+Song Name: Go to Hell
+Preview Link: https://p.scdn.co/mp3-preview/95f3f0154d349bbce128730f9735c81d82c55a46?cid=bb5314b285d44faca4e99f1707410b0c
+Album: Nothing to Lose: The Best of Toilet Boys, Vol. 2
+Artist(s): Anthony Perreira
+Song Name: Mary Had A Little Lamb
+Preview Link: https://p.scdn.co/mp3-preview/17b92bfc8fdf7c180c5bf63776fa8f5599856f3d?cid=bb5314b285d44faca4e99f1707410b0c
+Album: Mary Had A Little Lamb
+Artist(s): Elmore James
+Song Name: The Sky Is Crying
+Preview Link: https://p.scdn.co/mp3-preview/f91eee7da940f10266e7637d032b2930d4d4077c?cid=bb5314b285d44faca4e99f1707410b0c
+Album: Shake Your Money Maker: The Best Of The Fire Sessions
+Artist(s): Ace of Base
+Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=bb5314b285d44faca4e99f1707410b0c
+Song Name: The Sign
+Album: The Sign (US Album) [Remastered]
+Artist(s): Ace of Base
+Song Name: The Sign
+Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=bb5314b285d44faca4e99f1707410b0c
+Album: The Sign (US Album) [Remastered]
+Title of the movie:                     Citizen Kane
+IMDB Rating of the movie:               8.4
+Rotten Tomatoes Rating of the movie:    Citizen Kane
+Year the movie came out:                1941
+Plot of the movie:                      Following the death of a publishing tycoon, news reporters scramble to discover the meaning of his final utterance.
+Country where the movie was produced:   USA
+Actors in the movie:                    Joseph Cotten, Dorothy Comingore, Agnes Moorehead, Ruth Warrick
+Language of the movie:                  English
+Title of the movie:                     Mr. Nobody
+Year the movie came out:                2009
+IMDB Rating of the movie:               7.9
+Rotten Tomatoes Rating of the movie:    Mr. Nobody
+Country where the movie was produced:   Belgium, Germany, Canada, France, USA, UK
+Language of the movie:                  English, Mohawk
+Plot of the movie:                      A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors in the movie:                    Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Year the movie came out:                2009
+Title of the movie:                     Mr. Nobody
+IMDB Rating of the movie:               7.9
+Language of the movie:                  English, Mohawk
+Country where the movie was produced:   Belgium, Germany, Canada, France, USA, UK
+Plot of the movie:                      A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors in the movie:                    Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Rotten Tomatoes Rating of the movie:    Mr. Nobody
+Artist(s): Lana Del Rey
+Song Name: Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix / Radio Edit
+Preview Link: null
+Album: Summertime Sadness [Lana Del Rey vs. Cedric Gervais] (Cedric Gervais Remix)
+Title of the movie:                     Mr. Nobody
+IMDB Rating of the movie:               7.9
+Rotten Tomatoes Rating of the movie:    Mr. Nobody
+Language of the movie:                  English, Mohawk
+Plot of the movie:                      A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors in the movie:                    Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Country where the movie was produced:   Belgium, Germany, Canada, France, USA, UK
+Year the movie came out:                2009
+Title of the movie:                     undefined
+Year the movie came out:                undefined
+IMDB Rating of the movie:               undefined
+Rotten Tomatoes Rating of the movie:    undefined
+Country where the movie was produced:   undefined
+Language of the movie:                  undefined
+Plot of the movie:                      undefined
+Actors in the movie:                    undefined
+Title of the movie:                     Mr. Nobody
+Year the movie came out:                2009
+Rotten Tomatoes Rating of the movie:    Mr. Nobody
+Country where the movie was produced:   Belgium, Germany, Canada, France, USA, UK
+Plot of the movie:                      A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+IMDB Rating of the movie:               7.9
+Language of the movie:                  English, Mohawk
+Actors in the movie:                    Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Title of the movie:                     undefined
+Year the movie came out:                undefined
+Language of the movie:                  undefined
+Rotten Tomatoes Rating of the movie:    undefined
+Country where the movie was produced:   undefined
+IMDB Rating of the movie:               undefined
+Actors in the movie:                    undefined
+Plot of the movie:                      undefined
+Title of the movie:                     Star Wars: Episode IV - A New Hope
+IMDB Rating of the movie:               8.6
+Year the movie came out:                1977
+Rotten Tomatoes Rating of the movie:    Star Wars: Episode IV - A New Hope
+Country where the movie was produced:   USA
+Language of the movie:                  English
+Plot of the movie:                      Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle-station while also attempting to rescue Princess Leia from the evil Darth Vader.
+Actors in the movie:                    Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing
+Title of the movie:                     Kane
+Rotten Tomatoes Rating of the movie:    Kane
+Country where the movie was produced:   USA
+Year the movie came out:                2013
+Language of the movie:                  English
+Plot of the movie:                      After losing what meant most to him, the man behind the masked hero KANE has to make a decision that could change the fate of his city forever.
+Actors in the movie:                    Glenn Payne, Cameron Spann, Casey Dillard, Amye Gousset
+IMDB Rating of the movie:               7.1
+Title of the movie:                     ¡Esta semana en Esmerelda!
+IMDB Rating of the movie:               N/A
+Rotten Tomatoes Rating of the movie:    ¡Esta semana en Esmerelda!
+Country where the movie was produced:   USA
+Year the movie came out:                2010
+Plot of the movie:                      Esmerelda shoots lover with shot gun.
+Actors in the movie:                    N/A
+Language of the movie:                  Spanish
+Artist(s): Commodores
+Preview Link: null
+Song Name: Brick House
+Album: Commodores
+Song Name: Brick House
+Artist(s): Commodores
+Preview Link: null
+Album: Commodores
+Title of the movie:                     Kill Kane
+IMDB Rating of the movie:               3.9
+Rotten Tomatoes Rating of the movie:    Kill Kane
+Year the movie came out:                2016
+Plot of the movie:                      A teacher's world is torn apart when his wife and children are brutally murdered at the hands of a ruthless gang. Left for dead and with no one to turn to, he takes matters into his own hands and hits the streets in search of justice.
+Country where the movie was produced:   UK
+Actors in the movie:                    Vinnie Jones, Nicole Faraday, Sebastian Street, Sean Cronin
+Language of the movie:                  N/A
+Year the movie came out:                2009
+Title of the movie:                     Solomon Kane
+IMDB Rating of the movie:               6.1
+Country where the movie was produced:   Czech Republic, UK, France
+Language of the movie:                  English, Arabic
+Plot of the movie:                      A ruthless mercenary renounces violence after learning his soul is bound for hell. When a young girl is kidnapped and her family slain by a sorcerer's murderous cult, he is forced to fight and seek his redemption slaying evil.
+Actors in the movie:                    James Purefoy, Mark O'Neal, Robert Orr, Richard Ryan
+Rotten Tomatoes Rating of the movie:    Solomon Kane
+Title of the movie:                     Citizen Kane
+IMDB Rating of the movie:               8.4
+Rotten Tomatoes Rating of the movie:    Citizen Kane
+Year the movie came out:                1941
+Plot of the movie:                      Following the death of a publishing tycoon, news reporters scramble to discover the meaning of his final utterance.
+Country where the movie was produced:   USA
+Language of the movie:                  English
+Actors in the movie:                    Joseph Cotten, Dorothy Comingore, Agnes Moorehead, Ruth Warrick
+Adios my fring
+Song Name: The Sign
+Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=bb5314b285d44faca4e99f1707410b0c
+Album: undefined
+Song Name: Sultans Of Swing
+Album: undefined
+Preview Link: https://p.scdn.co/mp3-preview/36d1b1b99357ff707acec4dddb357aa59d50c0b5?cid=bb5314b285d44faca4e99f1707410b0c
+Song Name: The Sign
+Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=bb5314b285d44faca4e99f1707410b0c
+Album: undefined
+Song Name: The Sign
+Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=bb5314b285d44faca4e99f1707410b0c
+Album: The Sign (US Album) [Remastered]
+DuckDuckGo is my search engine of choice. #ComeToTheDuckSide - we have privacy. https://t.co/hXWSmjdaIM
+RT @F5Security: “5 myths of API security”: https://t.co/US3lnfD27l via @CSOonline #cybersecurity
+@Starbucks I am pretty sure this is a shakedown for $ staged by the two men &amp;  lawyer. slight possibility the employee is in on it too.
+RT @F5Security: "Combating seven common threat techniques in 2018" by @F5NetworksEMEA's @Keiron_Shep: https://t.co/H7kEb9IIKL via @IT_SecGu…
+RT @NakedWinesCOM: The way 99% of people choose their wine is hilarious  https://t.co/Hcvgz3WaCB
+RT @F5Security: "There is no such thing as a non-critical app when it comes to #security" by @lmacvittie: https://t.co/YyRScEPqER #cloud #W…
+RT @F5Security: [Blog] @F5Networks' SVP &amp; GM of Security, Ram Krishnan, discusses the details surrounding the launch of F5 Advanced #WAF, "…
+RT @F5Security: "What makes a #WAF advanced?" by @F5Networks' @bamchenry: https://t.co/DYvIClyELz #AppSec https://t.co/S86EYImTQ3
+RT @RimoteSaS: #IT #Security issues with #OpenSSL, a Secure Sockets Layer toolkit https://t.co/ffDEYalFrR https://t.co/tjnqFGLNSq Please up…
+RT @F5Security: Uncover #IoT security trends in the @F5Labs Threat Analysis Report, “The Hunt for IoT: The Growth and Evolution of Thingbot…
+RT @F5Security: Calling #RSAC attendees: Don’t miss the presentation from F5’s @dholmesf5 on “Secrets of the Encrypted Internet—Worldwide C…
+RT @ubuntu: With only two weeks to go until Ubuntu 18.04, here are the latest updates from the server team! https://t.co/Ye0NaBch6Y https:/…
+RT @abacohosting: Our SSL or Secure Sockets Layer certificates will protect confidential data on your website including passwords, payment…
+RT @ExtraHop: Next week we’re heading to San Francisco for #RSAC. Drop by South Expo Booth 2307 to say hello! https://t.co/q8NeDwiN78 https…
+RT @betterwebservic: SSL (Secure Sockets Layer) https://t.co/r345C2qemB
+RT @Azure: This week’s #AzureTrivia question is here. So, GAME ON. Answer for your chance to win cool prizes! https://t.co/WLBogBiDF0
+RT @whitehatsec: The combination of #microservices and #APIs is the fabric of #applications. WhiteHat CEO @CraigHinkley looks at how WhiteH…
+RT @megazone: I'm not sure if it is good or bad that I got this immediately.  And laughed. https://t.co/YUXoRH2lEA
+RT @iamdevloper: when you're reminded you wrote the world's biggest social network in PHP https://t.co/bnXqNeDjiC
+RT @WalkMeInc: Eliminate User Confusion with Customized On-Screen Guidance. https://t.co/1DyoLCoWdh
+DuckDuckGo is my search engine of choice. #ComeToTheDuckSide - we have privacy. https://t.co/hXWSmjdaIM
+@Starbucks I am pretty sure this is a shakedown for $ staged by the two men &amp;  lawyer. slight possibility the employee is in on it too.
+RT @F5Security: "There is no such thing as a non-critical app when it comes to #security" by @lmacvittie: https://t.co/YyRScEPqER #cloud #W…
+RT @NakedWinesCOM: The way 99% of people choose their wine is hilarious  https://t.co/Hcvgz3WaCB
+RT @F5Security: Calling #RSAC attendees: Don’t miss the presentation from F5’s @dholmesf5 on “Secrets of the Encrypted Internet—Worldwide C…
+RT @F5Security: [Blog] @F5Networks' SVP &amp; GM of Security, Ram Krishnan, discusses the details surrounding the launch of F5 Advanced #WAF, "…
+RT @F5Security: "Combating seven common threat techniques in 2018" by @F5NetworksEMEA's @Keiron_Shep: https://t.co/H7kEb9IIKL via @IT_SecGu…
+RT @F5Security: "What makes a #WAF advanced?" by @F5Networks' @bamchenry: https://t.co/DYvIClyELz #AppSec https://t.co/S86EYImTQ3
+RT @F5Security: Uncover #IoT security trends in the @F5Labs Threat Analysis Report, “The Hunt for IoT: The Growth and Evolution of Thingbot…
+RT @RimoteSaS: #IT #Security issues with #OpenSSL, a Secure Sockets Layer toolkit https://t.co/ffDEYalFrR https://t.co/tjnqFGLNSq Please up…
+RT @abacohosting: Our SSL or Secure Sockets Layer certificates will protect confidential data on your website including passwords, payment…
+RT @ubuntu: With only two weeks to go until Ubuntu 18.04, here are the latest updates from the server team! https://t.co/Ye0NaBch6Y https:/…
+RT @ExtraHop: Next week we’re heading to San Francisco for #RSAC. Drop by South Expo Booth 2307 to say hello! https://t.co/q8NeDwiN78 https…
+RT @betterwebservic: SSL (Secure Sockets Layer) https://t.co/r345C2qemB
+RT @F5Security: “5 myths of API security”: https://t.co/US3lnfD27l via @CSOonline #cybersecurity
+RT @Azure: This week’s #AzureTrivia question is here. So, GAME ON. Answer for your chance to win cool prizes! https://t.co/WLBogBiDF0
+RT @iamdevloper: when you're reminded you wrote the world's biggest social network in PHP https://t.co/bnXqNeDjiC
+RT @megazone: I'm not sure if it is good or bad that I got this immediately.  And laughed. https://t.co/YUXoRH2lEA
+RT @whitehatsec: The combination of #microservices and #APIs is the fabric of #applications. WhiteHat CEO @CraigHinkley looks at how WhiteH…
+RT @WalkMeInc: Eliminate User Confusion with Customized On-Screen Guidance. https://t.co/1DyoLCoWdh
+Song Name: The Sign
+Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=bb5314b285d44faca4e99f1707410b0c
+Album: The Sign (US Album) [Remastered]
+Title of the movie:                    Black Panther
+Year the movie came out:                    2018
+IMDB Rating of the movie:                    7.8
+Country where the movie was produced:                    USA
+Rotten Tomatoes Rating of the movie:                    Black Panther
+Actors in the movie:                    Chadwick Boseman, Michael B. Jordan, Lupita Nyong'o, Danai Gurira
+Plot of the movie:                    T'Challa, the King of Wakanda, rises to the throne in the isolated, technologically advanced African nation, but his claim is challenged by a vengeful outsider who was a childhood victim of T'Challa's father's mistake.
+Language of the movie:                    Swahili, Nama, English, Xhosa, Korean
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=bb5314b285d44faca4e99f1707410b0c
+Album: The Hits--Chapter One
+Song Name: I Want It That Way
+DuckDuckGo is my search engine of choice. #ComeToTheDuckSide - we have privacy. https://t.co/hXWSmjdaIM
+@Starbucks I am pretty sure this is a shakedown for $ staged by the two men &amp;  lawyer. slight possibility the employee is in on it too.
+RT @F5Security: "There is no such thing as a non-critical app when it comes to #security" by @lmacvittie: https://t.co/YyRScEPqER #cloud #W…
+RT @F5Security: "Combating seven common threat techniques in 2018" by @F5NetworksEMEA's @Keiron_Shep: https://t.co/H7kEb9IIKL via @IT_SecGu…
+RT @F5Security: Calling #RSAC attendees: Don’t miss the presentation from F5’s @dholmesf5 on “Secrets of the Encrypted Internet—Worldwide C…
+RT @F5Security: “5 myths of API security”: https://t.co/US3lnfD27l via @CSOonline #cybersecurity
+RT @F5Security: [Blog] @F5Networks' SVP &amp; GM of Security, Ram Krishnan, discusses the details surrounding the launch of F5 Advanced #WAF, "…
+RT @F5Security: "What makes a #WAF advanced?" by @F5Networks' @bamchenry: https://t.co/DYvIClyELz #AppSec https://t.co/S86EYImTQ3
+RT @RimoteSaS: #IT #Security issues with #OpenSSL, a Secure Sockets Layer toolkit https://t.co/ffDEYalFrR https://t.co/tjnqFGLNSq Please up…
+RT @F5Security: Uncover #IoT security trends in the @F5Labs Threat Analysis Report, “The Hunt for IoT: The Growth and Evolution of Thingbot…
+RT @betterwebservic: SSL (Secure Sockets Layer) https://t.co/r345C2qemB
+RT @abacohosting: Our SSL or Secure Sockets Layer certificates will protect confidential data on your website including passwords, payment…
+RT @ubuntu: With only two weeks to go until Ubuntu 18.04, here are the latest updates from the server team! https://t.co/Ye0NaBch6Y https:/…
+RT @ExtraHop: Next week we’re heading to San Francisco for #RSAC. Drop by South Expo Booth 2307 to say hello! https://t.co/q8NeDwiN78 https…
+RT @Azure: This week’s #AzureTrivia question is here. So, GAME ON. Answer for your chance to win cool prizes! https://t.co/WLBogBiDF0
+RT @whitehatsec: The combination of #microservices and #APIs is the fabric of #applications. WhiteHat CEO @CraigHinkley looks at how WhiteH…
+RT @iamdevloper: when you're reminded you wrote the world's biggest social network in PHP https://t.co/bnXqNeDjiC
+RT @megazone: I'm not sure if it is good or bad that I got this immediately.  And laughed. https://t.co/YUXoRH2lEA
+RT @NakedWinesCOM: The way 99% of people choose their wine is hilarious  https://t.co/Hcvgz3WaCB
+RT @WalkMeInc: Eliminate User Confusion with Customized On-Screen Guidance. https://t.co/1DyoLCoWdh
+Title of the movie:                    undefined
+IMDB Rating of the movie:                    undefined
+Country where the movie was produced:                    undefined
+Language of the movie:                    undefined
+Rotten Tomatoes Rating of the movie:                    undefined
+Actors in the movie:                    undefined
+Plot of the movie:                    undefined
+Year the movie came out:                    undefined
+Title of the movie:                    Solomon Kane
+Rotten Tomatoes Rating of the movie:                    Solomon Kane
+Country where the movie was produced:                    Czech Republic, UK, France
+Year the movie came out:                    2009
+Language of the movie:                    English, Arabic
+Plot of the movie:                    A ruthless mercenary renounces violence after learning his soul is bound for hell. When a young girl is kidnapped and her family slain by a sorcerer's murderous cult, he is forced to fight and seek his redemption slaying evil.
+IMDB Rating of the movie:                    6.1
+Actors in the movie:                    James Purefoy, Mark O'Neal, Robert Orr, Richard Ryan
+Song Name: Short Skirt / Long Jacket
+Preview Link: https://p.scdn.co/mp3-preview/7420f9c65687e0b99707bfdaef11e17a02badf9e?cid=bb5314b285d44faca4e99f1707410b0c
+Album: Comfort Eagle
+Song Name: The Sign
+Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=bb5314b285d44faca4e99f1707410b0c
+Album: The Sign (US Album) [Remastered]
+Title of the movie:                    Mr. Nobody
+Year the movie came out:                    2009
+IMDB Rating of the movie:                    7.9
+Country where the movie was produced:                    Belgium, Germany, Canada, France, USA, UK
+Rotten Tomatoes Rating of the movie:                    Mr. Nobody
+Plot of the movie:                    A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Language of the movie:                    English, Mohawk
+Actors in the movie:                    Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Song Name: Short Skirt / Long Jacket
+Preview Link: https://p.scdn.co/mp3-preview/7420f9c65687e0b99707bfdaef11e17a02badf9e?cid=bb5314b285d44faca4e99f1707410b0c
+Album: Comfort Eagle
+Title of the movie:                    Mr. Nobody
+Year the movie came out:                    2009
+IMDB Rating of the movie:                    7.9
+Country where the movie was produced:                    Belgium, Germany, Canada, France, USA, UK
+Rotten Tomatoes Rating of the movie:                    Mr. Nobody
+Plot of the movie:                    A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors in the movie:                    Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Language of the movie:                    English, Mohawk
+Song Name: The Sign
+Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=bb5314b285d44faca4e99f1707410b0c
+Album: The Sign (US Album) [Remastered]
+DuckDuckGo is my search engine of choice. #ComeToTheDuckSide - we have privacy. https://t.co/hXWSmjdaIM
+@Starbucks I am pretty sure this is a shakedown for $ staged by the two men &amp;  lawyer. slight possibility the employee is in on it too.
+RT @F5Security: “5 myths of API security”: https://t.co/US3lnfD27l via @CSOonline #cybersecurity
+RT @F5Security: "There is no such thing as a non-critical app when it comes to #security" by @lmacvittie: https://t.co/YyRScEPqER #cloud #W…
+RT @F5Security: "Combating seven common threat techniques in 2018" by @F5NetworksEMEA's @Keiron_Shep: https://t.co/H7kEb9IIKL via @IT_SecGu…
+RT @F5Security: [Blog] @F5Networks' SVP &amp; GM of Security, Ram Krishnan, discusses the details surrounding the launch of F5 Advanced #WAF, "…
+RT @F5Security: Calling #RSAC attendees: Don’t miss the presentation from F5’s @dholmesf5 on “Secrets of the Encrypted Internet—Worldwide C…
+RT @NakedWinesCOM: The way 99% of people choose their wine is hilarious  https://t.co/Hcvgz3WaCB
+RT @F5Security: Uncover #IoT security trends in the @F5Labs Threat Analysis Report, “The Hunt for IoT: The Growth and Evolution of Thingbot…
+RT @abacohosting: Our SSL or Secure Sockets Layer certificates will protect confidential data on your website including passwords, payment…
+RT @F5Security: "What makes a #WAF advanced?" by @F5Networks' @bamchenry: https://t.co/DYvIClyELz #AppSec https://t.co/S86EYImTQ3
+RT @RimoteSaS: #IT #Security issues with #OpenSSL, a Secure Sockets Layer toolkit https://t.co/ffDEYalFrR https://t.co/tjnqFGLNSq Please up…
+RT @ExtraHop: Next week we’re heading to San Francisco for #RSAC. Drop by South Expo Booth 2307 to say hello! https://t.co/q8NeDwiN78 https…
+RT @ubuntu: With only two weeks to go until Ubuntu 18.04, here are the latest updates from the server team! https://t.co/Ye0NaBch6Y https:/…
+RT @Azure: This week’s #AzureTrivia question is here. So, GAME ON. Answer for your chance to win cool prizes! https://t.co/WLBogBiDF0
+RT @whitehatsec: The combination of #microservices and #APIs is the fabric of #applications. WhiteHat CEO @CraigHinkley looks at how WhiteH…
+RT @betterwebservic: SSL (Secure Sockets Layer) https://t.co/r345C2qemB
+RT @iamdevloper: when you're reminded you wrote the world's biggest social network in PHP https://t.co/bnXqNeDjiC
+RT @megazone: I'm not sure if it is good or bad that I got this immediately.  And laughed. https://t.co/YUXoRH2lEA
+RT @WalkMeInc: Eliminate User Confusion with Customized On-Screen Guidance. https://t.co/1DyoLCoWdh
+Song Name: The Sign
+Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=bb5314b285d44faca4e99f1707410b0c
+Album: The Sign (US Album) [Remastered]
+Title of the movie:                    Mr. Nobody
+Rotten Tomatoes Rating of the movie:                    Mr. Nobody
+Country where the movie was produced:                    Belgium, Germany, Canada, France, USA, UK
+IMDB Rating of the movie:                    7.9
+Plot of the movie:                    A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors in the movie:                    Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Language of the movie:                    English, Mohawk
+Year the movie came out:                    2009
+Title of the movie:                    undefined
+Year the movie came out:                    undefined
+Country where the movie was produced:                    undefined
+Rotten Tomatoes Rating of the movie:                    undefined
+Plot of the movie:                    undefined
+Language of the movie:                    undefined
+Actors in the movie:                    undefined
+IMDB Rating of the movie:                    undefined
+Song Name: Short Skirt / Long Jacket
+Preview Link: https://p.scdn.co/mp3-preview/7420f9c65687e0b99707bfdaef11e17a02badf9e?cid=bb5314b285d44faca4e99f1707410b0c
+Album: Comfort Eagle
+[4mTitle of the movie:                    Black Panther[24m
+[4mYear the movie came out:                    2018[24m
+[4mIMDB Rating of the movie:                    7.8[24m
+[4mCountry where the movie was produced:                    USA[24m
+[4mRotten Tomatoes Rating of the movie:                    Black Panther[24m
+[4mActors in the movie:                    Chadwick Boseman, Michael B. Jordan, Lupita Nyong'o, Danai Gurira[24m
+[4mPlot of the movie:                    T'Challa, the King of Wakanda, rises to the throne in the isolated, technologically advanced African nation, but his claim is challenged by a vengeful outsider who was a childhood victim of T'Challa's father's mistake.[24m
+[4mLanguage of the movie:                    Swahili, Nama, English, Xhosa, Korean[24m
+[4mTitle of the movie[24m:                    [42mMr. Nobody[49m
+[4mYear the movie came out[24m:                    [42m2009[49m
+[4mRotten Tomatoes Rating of the movie[24m:                    [42mMr. Nobody[49m
+[4mCountry where the movie was produced[24m:                    [42mBelgium, Germany, Canada, France, USA, UK[49m
+[4mLanguage of the movie[24m:                    [42mEnglish, Mohawk[49m
+[4mPlot of the movie[24m:                    [42mA boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.[49m
+[4mActors in the movie[24m:                    [42mJared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham[49m
+[4mIMDB Rating of the movie[24m:                    [42m7.9[49m
+[4mTitle of the movie                    [24m:                    [42mMr. Nobody[49m
+[4mIMDB Rating of the movie              [24m:                    [42m7.9[49m
+[4mYear the movie came out               [24m:                    [42m2009[49m
+[4mCountry where the movie was produced  [24m:                    [42mBelgium, Germany, Canada, France, USA, UK[49m
+[4mPlot of the movie                     [24m:                    [42mA boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.[49m
+[4mRotten Tomatoes Rating of the movie   [24m:                    [42mMr. Nobody[49m
+[4mActors in the movie                   [24m:                    [42mJared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham[49m
+[4mLanguage of the movie                 [24m:                    [42mEnglish, Mohawk[49m
+[47mTitle of the movie                    [49m:                    [1mMr. Nobody[22m
+[47mYear the movie came out               [49m:                    [1m2009[22m
+[47mIMDB Rating of the movie              [49m:                    [1m7.9[22m
+[47mCountry where the movie was produced  [49m:                    [1mBelgium, Germany, Canada, France, USA, UK[22m
+[47mRotten Tomatoes Rating of the movie   [49m:                    [1mMr. Nobody[22m
+[47mLanguage of the movie                 [49m:                    [1mEnglish, Mohawk[22m
+[47mActors in the movie                   [49m:                    [1mJared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham[22m
+[47mPlot of the movie                     [49m:                    [1mA boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.[22m
+[30m[47mYear the movie came out               [49m[39m:                    [1m2009[22m
+[30m[47mTitle of the movie                    [49m[39m:                    [1mMr. Nobody[22m
+[30m[47mCountry where the movie was produced  [49m[39m:                    [1mBelgium, Germany, Canada, France, USA, UK[22m
+[30m[47mIMDB Rating of the movie              [49m[39m:                    [1m7.9[22m
+[30m[47mRotten Tomatoes Rating of the movie   [49m[39m:                    [1mMr. Nobody[22m
+[30m[47mActors in the movie                   [49m[39m:                    [1mJared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham[22m
+[30m[47mLanguage of the movie                 [49m[39m:                    [1mEnglish, Mohawk[22m
+[30m[47mPlot of the movie                     [49m[39m:                    [1mA boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.[22m
+[30m[47mTitle of the movie                    :[49m[39m                    [1mMr. Nobody[22m
+[30m[47mYear the movie came out               :[49m[39m                    [1m2009[22m
+[30m[47mIMDB Rating of the movie              :[49m[39m                    [1m7.9[22m
+[30m[47mCountry where the movie was produced  :[49m[39m                    [1mBelgium, Germany, Canada, France, USA, UK[22m
+[30m[47mRotten Tomatoes Rating of the movie   :[49m[39m                    [1mMr. Nobody[22m
+[30m[47mActors in the movie                   :[49m[39m                    [1mJared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham[22m
+[30m[47mPlot of the movie                     :[49m[39m                    [1mA boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.[22m
+[30m[47mLanguage of the movie                 :[49m[39m                    [1mEnglish, Mohawk[22m
+DuckDuckGo is my search engine of choice. #ComeToTheDuckSide - we have privacy. https://t.co/hXWSmjdaIM
+@Starbucks I am pretty sure this is a shakedown for $ staged by the two men &amp;  lawyer. slight possibility the employee is in on it too.
+RT @F5Security: “5 myths of API security”: https://t.co/US3lnfD27l via @CSOonline #cybersecurity
+RT @F5Security: "There is no such thing as a non-critical app when it comes to #security" by @lmacvittie: https://t.co/YyRScEPqER #cloud #W…
+RT @F5Security: "Combating seven common threat techniques in 2018" by @F5NetworksEMEA's @Keiron_Shep: https://t.co/H7kEb9IIKL via @IT_SecGu…
+RT @NakedWinesCOM: The way 99% of people choose their wine is hilarious  https://t.co/Hcvgz3WaCB
+RT @F5Security: "What makes a #WAF advanced?" by @F5Networks' @bamchenry: https://t.co/DYvIClyELz #AppSec https://t.co/S86EYImTQ3
+RT @F5Security: Uncover #IoT security trends in the @F5Labs Threat Analysis Report, “The Hunt for IoT: The Growth and Evolution of Thingbot…
+RT @abacohosting: Our SSL or Secure Sockets Layer certificates will protect confidential data on your website including passwords, payment…
+RT @RimoteSaS: #IT #Security issues with #OpenSSL, a Secure Sockets Layer toolkit https://t.co/ffDEYalFrR https://t.co/tjnqFGLNSq Please up…
+RT @F5Security: Calling #RSAC attendees: Don’t miss the presentation from F5’s @dholmesf5 on “Secrets of the Encrypted Internet—Worldwide C…
+RT @F5Security: [Blog] @F5Networks' SVP &amp; GM of Security, Ram Krishnan, discusses the details surrounding the launch of F5 Advanced #WAF, "…
+RT @betterwebservic: SSL (Secure Sockets Layer) https://t.co/r345C2qemB
+RT @ExtraHop: Next week we’re heading to San Francisco for #RSAC. Drop by South Expo Booth 2307 to say hello! https://t.co/q8NeDwiN78 https…
+RT @whitehatsec: The combination of #microservices and #APIs is the fabric of #applications. WhiteHat CEO @CraigHinkley looks at how WhiteH…
+RT @ubuntu: With only two weeks to go until Ubuntu 18.04, here are the latest updates from the server team! https://t.co/Ye0NaBch6Y https:/…
+RT @Azure: This week’s #AzureTrivia question is here. So, GAME ON. Answer for your chance to win cool prizes! https://t.co/WLBogBiDF0
+RT @iamdevloper: when you're reminded you wrote the world's biggest social network in PHP https://t.co/bnXqNeDjiC
+RT @WalkMeInc: Eliminate User Confusion with Customized On-Screen Guidance. https://t.co/1DyoLCoWdh
+RT @megazone: I'm not sure if it is good or bad that I got this immediately.  And laughed. https://t.co/YUXoRH2lEA
+Song Name     : Fireworks - Karaoke Instrumental Club Edit Originally Performed By Katy Perry
+Preview Link  : https://p.scdn.co/mp3-preview/a28275aa200c2e10261d2b64eca63e6a2b7d7c12?cid=bb5314b285d44faca4e99f1707410b0c
+Album         : Midnight Memories - Lounge Music Deluxe
+[30m[47mTitle of the movie                    :[49m[39m                    [1mSigns[22m
+[30m[47mYear the movie came out               :[49m[39m                    [1m2002[22m
+[30m[47mCountry where the movie was produced  :[49m[39m                    [1mUSA[22m
+[30m[47mIMDB Rating of the movie              :[49m[39m                    [1m6.7[22m
+[30m[47mLanguage of the movie                 :[49m[39m                    [1mEnglish, Portuguese[22m
+[30m[47mRotten Tomatoes Rating of the movie   :[49m[39m                    [1mSigns[22m
+[30m[47mActors in the movie                   :[49m[39m                    [1mMel Gibson, Joaquin Phoenix, Rory Culkin, Abigail Breslin[22m
+[30m[47mPlot of the movie                     :[49m[39m                    [1mA family living on a farm finds mysterious crop circles in their fields which suggests something more frightening to come.[22m
+[30m[47mYear the movie came out               :[49m[39m                    [1m1941[22m
+[30m[47mTitle of the movie                    :[49m[39m                    [1mCitizen Kane[22m
+[30m[47mIMDB Rating of the movie              :[49m[39m                    [1m8.4[22m
+[30m[47mCountry where the movie was produced  :[49m[39m                    [1mUSA[22m
+[30m[47mRotten Tomatoes Rating of the movie   :[49m[39m                    [1mCitizen Kane[22m
+[30m[47mActors in the movie                   :[49m[39m                    [1mJoseph Cotten, Dorothy Comingore, Agnes Moorehead, Ruth Warrick[22m
+[30m[47mPlot of the movie                     :[49m[39m                    [1mFollowing the death of a publishing tycoon, news reporters scramble to discover the meaning of his final utterance.[22m
+[30m[47mLanguage of the movie                 :[49m[39m                    [1mEnglish[22m
+Song Name     : I Want It That Way
+Preview Link  : https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=bb5314b285d44faca4e99f1707410b0c
+Album         : The Hits--Chapter One
+Song Name     : Short Skirt / Long Jacket
+Preview Link  : https://p.scdn.co/mp3-preview/7420f9c65687e0b99707bfdaef11e17a02badf9e?cid=bb5314b285d44faca4e99f1707410b0c
+Album         : Comfort Eagle
